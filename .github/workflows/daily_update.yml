@@ -1,0 +1,46 @@
+name: Daily NEPSE Data Update
+
+on:
+  schedule:
+    - cron: "30 9 * * 0-4"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r src/requirements.txt
+
+      - name: Run daily scraper
+        run: |
+          cd src
+          python dailyDataScrapper.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Check if data changed
+        id: git_status
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated data
+        if: steps.git_status.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "data: daily price update $(date +'%Y-%m-%d')"
+          git push
