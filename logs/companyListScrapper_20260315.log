@@ -1,0 +1,7 @@
+2026-03-15 04:21:38 [INFO] Fetching company list page 1: https://www.sharesansar.com/company
+2026-03-15 04:21:43 [WARNING] HTTP 404 on attempt 1/3: https://www.sharesansar.com/company
+2026-03-15 04:21:50 [WARNING] HTTP 404 on attempt 2/3: https://www.sharesansar.com/company
+2026-03-15 04:21:59 [WARNING] HTTP 404 on attempt 3/3: https://www.sharesansar.com/company
+2026-03-15 04:21:59 [ERROR] Failed after 3 attempts: https://www.sharesansar.com/company
+2026-03-15 04:21:59 [INFO] Total unique companies discovered: 0
+2026-03-15 04:21:59 [INFO] config.py updated with 0 companies

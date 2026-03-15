@@ -1,0 +1,1220 @@
+2026-03-15 04:34:24 [INFO] Starting full scrape for 263 companies
+2026-03-15 04:34:24 [INFO] [ACLBSL] (1/263) Scraping…
+2026-03-15 04:34:32 [INFO] [ACLBSL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:32 [WARNING] [ACLBSL] No data retrieved
+2026-03-15 04:34:32 [INFO] [ADBL] (2/263) Scraping…
+2026-03-15 04:34:34 [INFO] [ADBL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:34 [WARNING] [ADBL] No data retrieved
+2026-03-15 04:34:34 [INFO] [AHL] (3/263) Scraping…
+2026-03-15 04:34:36 [INFO] [AHL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:36 [WARNING] [AHL] No data retrieved
+2026-03-15 04:34:36 [INFO] [AHPC] (4/263) Scraping…
+2026-03-15 04:34:38 [INFO] [AHPC] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:38 [WARNING] [AHPC] No data retrieved
+2026-03-15 04:34:38 [INFO] [AKJCL] (5/263) Scraping…
+2026-03-15 04:34:39 [INFO] [AKJCL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:39 [WARNING] [AKJCL] No data retrieved
+2026-03-15 04:34:39 [INFO] [AKPL] (6/263) Scraping…
+2026-03-15 04:34:41 [INFO] [AKPL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:41 [WARNING] [AKPL] No data retrieved
+2026-03-15 04:34:41 [INFO] [ALBSL] (7/263) Scraping…
+2026-03-15 04:34:43 [INFO] [ALBSL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:43 [WARNING] [ALBSL] No data retrieved
+2026-03-15 04:34:43 [INFO] [ALICL] (8/263) Scraping…
+2026-03-15 04:34:45 [INFO] [ALICL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:34:45 [WARNING] [ALICL] No data retrieved
+2026-03-15 04:34:45 [INFO] [ANLB] (9/263) Scraping…
+2026-03-15 04:37:22 [INFO] Starting full scrape for 1 companies
+2026-03-15 04:37:22 [INFO] [NABIL] (1/1) Scraping…
+2026-03-15 04:37:25 [INFO] [NABIL] Total pages: 1, page 1 rows: 0
+2026-03-15 04:37:25 [WARNING] [NABIL] No data retrieved
+2026-03-15 04:37:25 [INFO] ============================================================
+2026-03-15 04:37:25 [INFO] Done.  Success: 0  |  Failed: 1
+2026-03-15 04:37:25 [WARNING] Failed symbols: NABIL
+2026-03-15 08:50:09 [INFO] Starting full scrape for 1 companies
+2026-03-15 08:50:09 [INFO] [NABIL] (1/1) Scraping…
+2026-03-15 08:50:13 [INFO] [NABIL] Total pages: 196, page 1 rows: 100
+2026-03-15 08:50:15 [INFO] [NABIL] Page 2 rows: 100
+2026-03-15 08:50:17 [INFO] [NABIL] Page 3 rows: 100
+2026-03-15 08:50:19 [INFO] [NABIL] Page 4 rows: 100
+2026-03-15 08:50:21 [INFO] [NABIL] Page 5 rows: 100
+2026-03-15 08:50:23 [INFO] [NABIL] Page 6 rows: 100
+2026-03-15 08:50:26 [INFO] [NABIL] Page 7 rows: 100
+2026-03-15 08:50:28 [INFO] [NABIL] Page 8 rows: 100
+2026-03-15 08:50:30 [INFO] [NABIL] Page 9 rows: 125
+2026-03-15 08:50:32 [INFO] [NABIL] Page 10 rows: 100
+2026-03-15 08:50:34 [INFO] [NABIL] Page 11 rows: 100
+2026-03-15 08:50:36 [INFO] [NABIL] Page 12 rows: 100
+2026-03-15 08:50:38 [INFO] [NABIL] Page 13 rows: 100
+2026-03-15 08:50:40 [INFO] [NABIL] Page 14 rows: 98
+2026-03-15 08:50:42 [INFO] [NABIL] Page 15 rows: 99
+2026-03-15 08:50:45 [INFO] [NABIL] Page 16 rows: 99
+2026-03-15 08:50:47 [INFO] [NABIL] Page 17 rows: 100
+2026-03-15 08:50:49 [INFO] [NABIL] Page 18 rows: 96
+2026-03-15 08:50:51 [INFO] [NABIL] Page 19 rows: 99
+2026-03-15 08:50:54 [INFO] [NABIL] Page 20 rows: 98
+2026-03-15 08:50:56 [INFO] [NABIL] Page 21 rows: 95
+2026-03-15 08:50:58 [INFO] [NABIL] Page 22 rows: 92
+2026-03-15 08:51:00 [INFO] [NABIL] Page 23 rows: 96
+2026-03-15 08:51:02 [INFO] [NABIL] Page 24 rows: 98
+2026-03-15 08:51:04 [INFO] [NABIL] Page 25 rows: 100
+2026-03-15 08:51:07 [INFO] [NABIL] Page 26 rows: 97
+2026-03-15 08:51:09 [INFO] [NABIL] Page 27 rows: 100
+2026-03-15 08:51:11 [INFO] [NABIL] Page 28 rows: 37
+2026-03-15 08:51:13 [WARNING] [NABIL] No rows on page 29, stopping
+2026-03-15 08:51:13 [INFO] ============================================================
+2026-03-15 08:51:13 [INFO] Done.  Success: 1  |  Failed: 0
+2026-03-15 08:53:51 [INFO] Starting full scrape for 263 companies
+2026-03-15 08:53:51 [INFO] [ACLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ADBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [AHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [AHPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [AKJCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [AKPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ALBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ALICL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ANLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [API] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [AVYAN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BANDIPUR] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BARUN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BBC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BEDC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BFC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BGWT] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BHCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BHDC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BNHC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BNL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BNT] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BPCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [BUNGAL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CFCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CGH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CHCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CHDC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CIT] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CITY] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CKHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CORBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CREST] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CYCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [CZBIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DDBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DHEL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DLBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DOLTI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [DORDI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [EBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [EDBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [EHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ENL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [FMDBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [FOWAD] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GBIME] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GBLBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GCIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GFCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GILB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GLH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GMFBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GMFIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GMLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GRDBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GUFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [GVL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HATHY] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HDHPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HDL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HEI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HFIN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HIDCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HIMSTAR] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HPPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HRL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [HURJA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ICFC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [IGI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [IHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ILBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ILI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JBLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JHAPA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JOSHI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [JSLBB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KBSH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KDL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KKHC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KMCDB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KPCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [KSBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [LBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [LEC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [LICN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [LLBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [LSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MABEL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MAKAR] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MANDU] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MATRI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MBJC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MCHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MDB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MEHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MEL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MEN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MERO] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MFIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MHCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MHNL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MKCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MKHC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MKHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MKJC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MLBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MLBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MLBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MMKJL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MNBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MPFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MSHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [MSLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NABBC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NABIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NADEP] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NESDO] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NFS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NGPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NHDL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NHPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NICA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NICL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NICLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NIFRA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NIMB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NLG] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NLIC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NLICL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NMB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NMBMF] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NMFBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NMIC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NMLBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NRIC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NRM] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NRN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NTC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NUBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NWCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [NYADI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [OHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [OMPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PCBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PHCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PMHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PMLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PPCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PRIN] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PROFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PRVU] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [PURE] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RADHI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RAWA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RBCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RFPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RHGCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RIDI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RLFL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RNLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RSDC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RSML] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [RURU] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SABBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SADBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SAGAR] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SAHAS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SAIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SALICO] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SANIMA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SANVI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SAPDBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SARBTM] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SBI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SCB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SFCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SGHC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SGIC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHEL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHINE] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHIVM] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SHPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SICL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SIFC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SIKLES] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SINDU] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SJCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SJLIC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SKBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SLBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SLBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMATA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMFBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMJC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SMPDA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SNLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SONA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SPDL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SPHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SPIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SRLI] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SSHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [STC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SWASTIK] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SWBBL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SWMF] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [SYPNL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TAMOR] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TPC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TRH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TSHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TTL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [TVCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UAIL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UHEWA] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ULBSL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [ULHC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UMHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UMRH] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UNHPL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UNL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UNLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UPCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [UPPER] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [USHEC] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [USHL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [USLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [VLBS] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [VLUCL] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] [WNLB] Skipping (CSV exists)
+2026-03-15 08:53:51 [INFO] ============================================================
+2026-03-15 08:53:51 [INFO] Done.  Success: 0  |  Failed: 0
+2026-03-15 08:54:10 [INFO] Starting full scrape for 263 companies
+2026-03-15 08:54:10 [INFO] [ACLBSL] (1/263) Scraping…
+2026-03-15 08:54:14 [INFO] [ACLBSL] Total pages: 42, page 1 rows: 100
+2026-03-15 08:54:16 [INFO] [ACLBSL] Page 2 rows: 100
+2026-03-15 08:54:17 [INFO] [ACLBSL] Page 3 rows: 100
+2026-03-15 08:54:19 [INFO] [ACLBSL] Page 4 rows: 100
+2026-03-15 08:54:21 [INFO] [ACLBSL] Page 5 rows: 100
+2026-03-15 08:54:23 [INFO] [ACLBSL] Page 6 rows: 100
+2026-03-15 08:54:24 [INFO] [ACLBSL] Page 7 rows: 100
+2026-03-15 08:54:26 [INFO] [ACLBSL] Page 8 rows: 100
+2026-03-15 08:54:28 [INFO] [ACLBSL] Page 9 rows: 101
+2026-03-15 08:54:30 [INFO] [ACLBSL] Page 10 rows: 100
+2026-03-15 08:54:32 [INFO] [ACLBSL] Page 11 rows: 100
+2026-03-15 08:54:34 [INFO] [ACLBSL] Page 12 rows: 100
+2026-03-15 08:54:36 [INFO] [ACLBSL] Page 13 rows: 100
+2026-03-15 08:54:37 [INFO] [ACLBSL] Page 14 rows: 37
+2026-03-15 08:54:39 [WARNING] [ACLBSL] No rows on page 15, stopping
+2026-03-15 08:54:39 [INFO] [ADBL] (2/263) Scraping…
+2026-03-15 08:54:43 [INFO] [ADBL] Total pages: 118, page 1 rows: 100
+2026-03-15 08:54:45 [INFO] [ADBL] Page 2 rows: 100
+2026-03-15 08:54:47 [INFO] [ADBL] Page 3 rows: 100
+2026-03-15 08:54:49 [INFO] [ADBL] Page 4 rows: 100
+2026-03-15 08:54:50 [INFO] [ADBL] Page 5 rows: 100
+2026-03-15 08:54:52 [INFO] [ADBL] Page 6 rows: 100
+2026-03-15 08:54:54 [INFO] [ADBL] Page 7 rows: 100
+2026-03-15 08:54:56 [INFO] [ADBL] Page 8 rows: 100
+2026-03-15 08:54:59 [INFO] [ADBL] Page 9 rows: 103
+2026-03-15 08:55:01 [INFO] [ADBL] Page 10 rows: 100
+2026-03-15 08:55:03 [INFO] [ADBL] Page 11 rows: 100
+2026-03-15 08:55:05 [INFO] [ADBL] Page 12 rows: 100
+2026-03-15 08:55:06 [INFO] [ADBL] Page 13 rows: 100
+2026-03-15 08:55:08 [INFO] [ADBL] Page 14 rows: 98
+2026-03-15 08:55:11 [INFO] [ADBL] Page 15 rows: 99
+2026-03-15 08:55:13 [INFO] [ADBL] Page 16 rows: 99
+2026-03-15 08:55:15 [INFO] [ADBL] Page 17 rows: 100
+2026-03-15 08:55:17 [INFO] [ADBL] Page 18 rows: 96
+2026-03-15 08:55:20 [INFO] [ADBL] Page 19 rows: 99
+2026-03-15 08:55:22 [INFO] [ADBL] Page 20 rows: 98
+2026-03-15 08:55:24 [INFO] [ADBL] Page 21 rows: 95
+2026-03-15 08:55:26 [INFO] [ADBL] Page 22 rows: 92
+2026-03-15 08:55:28 [INFO] [ADBL] Page 23 rows: 96
+2026-03-15 08:55:31 [INFO] [ADBL] Page 24 rows: 98
+2026-03-15 08:55:34 [INFO] [ADBL] Page 25 rows: 100
+2026-03-15 08:55:36 [INFO] [ADBL] Page 26 rows: 97
+2026-03-15 08:55:38 [INFO] [ADBL] Page 27 rows: 100
+2026-03-15 08:55:40 [INFO] [ADBL] Page 28 rows: 40
+2026-03-15 08:55:42 [WARNING] [ADBL] No rows on page 29, stopping
+2026-03-15 08:55:42 [INFO] [AHL] (3/263) Scraping…
+2026-03-15 08:55:46 [INFO] [AHL] Total pages: 23, page 1 rows: 100
+2026-03-15 08:55:48 [INFO] [AHL] Page 2 rows: 100
+2026-03-15 08:55:50 [INFO] [AHL] Page 3 rows: 100
+2026-03-15 08:55:52 [INFO] [AHL] Page 4 rows: 100
+2026-03-15 08:55:54 [INFO] [AHL] Page 5 rows: 100
+2026-03-15 08:55:56 [INFO] [AHL] Page 6 rows: 100
+2026-03-15 08:55:58 [INFO] [AHL] Page 7 rows: 100
+2026-03-15 08:56:00 [INFO] [AHL] Page 8 rows: 77
+2026-03-15 08:56:02 [WARNING] [AHL] No rows on page 9, stopping
+2026-03-15 08:56:02 [INFO] [AHPC] (4/263) Scraping…
+2026-03-15 08:57:21 [INFO] Starting full scrape for 263 companies
+2026-03-15 08:57:21 [INFO] [ACLBSL] (1/263) Scraping…
+2026-03-15 08:57:25 [INFO] [ACLBSL] Total pages: 42, page 1 rows: 100
+2026-03-15 08:57:27 [INFO] [ACLBSL] Page 2 rows: 100
+2026-03-15 08:57:29 [INFO] [ACLBSL] Page 3 rows: 100
+2026-03-15 08:57:31 [INFO] [ACLBSL] Page 4 rows: 100
+2026-03-15 08:57:33 [INFO] [ACLBSL] Page 5 rows: 100
+2026-03-15 08:57:34 [INFO] [ACLBSL] Page 6 rows: 100
+2026-03-15 08:57:36 [INFO] [ACLBSL] Page 7 rows: 100
+2026-03-15 08:57:38 [INFO] [ACLBSL] Page 8 rows: 100
+2026-03-15 08:57:40 [INFO] [ACLBSL] Page 9 rows: 101
+2026-03-15 08:57:42 [INFO] [ACLBSL] Page 10 rows: 100
+2026-03-15 08:57:44 [INFO] [ACLBSL] Page 11 rows: 100
+2026-03-15 08:57:46 [INFO] [ACLBSL] Page 12 rows: 100
+2026-03-15 08:57:47 [INFO] [ACLBSL] Page 13 rows: 100
+2026-03-15 08:57:49 [INFO] [ACLBSL] Page 14 rows: 37
+2026-03-15 08:57:51 [WARNING] [ACLBSL] No rows on page 15, stopping
+2026-03-15 08:57:51 [INFO] [ACLBSL] Saved 1235 rows -> ../data/company\ACLBSL.csv
+2026-03-15 08:57:51 [INFO] [ADBL] (2/263) Scraping…
+2026-03-15 08:57:54 [INFO] [ADBL] Total pages: 118, page 1 rows: 100
+2026-03-15 08:57:56 [INFO] [ADBL] Page 2 rows: 100
+2026-03-15 08:57:58 [INFO] [ADBL] Page 3 rows: 100
+2026-03-15 08:58:00 [INFO] [ADBL] Page 4 rows: 100
+2026-03-15 08:58:02 [INFO] [ADBL] Page 5 rows: 100
+2026-03-15 08:58:04 [INFO] [ADBL] Page 6 rows: 100
+2026-03-15 08:58:06 [INFO] [ADBL] Page 7 rows: 100
+2026-03-15 08:58:08 [INFO] [ADBL] Page 8 rows: 100
+2026-03-15 08:58:10 [INFO] [ADBL] Page 9 rows: 103
+2026-03-15 08:58:12 [INFO] [ADBL] Page 10 rows: 100
+2026-03-15 08:58:14 [INFO] [ADBL] Page 11 rows: 100
+2026-03-15 08:58:16 [INFO] [ADBL] Page 12 rows: 100
+2026-03-15 08:58:18 [INFO] [ADBL] Page 13 rows: 100
+2026-03-15 08:58:20 [INFO] [ADBL] Page 14 rows: 98
+2026-03-15 08:58:22 [INFO] [ADBL] Page 15 rows: 99
+2026-03-15 08:58:24 [INFO] [ADBL] Page 16 rows: 99
+2026-03-15 08:58:26 [INFO] [ADBL] Page 17 rows: 100
+2026-03-15 08:58:28 [INFO] [ADBL] Page 18 rows: 96
+2026-03-15 08:58:30 [INFO] [ADBL] Page 19 rows: 99
+2026-03-15 08:58:32 [INFO] [ADBL] Page 20 rows: 98
+2026-03-15 08:58:34 [INFO] [ADBL] Page 21 rows: 95
+2026-03-15 08:58:36 [INFO] [ADBL] Page 22 rows: 92
+2026-03-15 08:58:38 [INFO] [ADBL] Page 23 rows: 96
+2026-03-15 08:58:39 [INFO] [ADBL] Page 24 rows: 98
+2026-03-15 08:58:41 [INFO] [ADBL] Page 25 rows: 100
+2026-03-15 08:58:43 [INFO] [ADBL] Page 26 rows: 97
+2026-03-15 08:58:45 [INFO] [ADBL] Page 27 rows: 100
+2026-03-15 08:58:47 [INFO] [ADBL] Page 28 rows: 40
+2026-03-15 08:58:49 [WARNING] [ADBL] No rows on page 29, stopping
+2026-03-15 08:58:49 [INFO] [ADBL] Saved 2604 rows -> ../data/company\ADBL.csv
+2026-03-15 08:58:49 [INFO] [AHL] (3/263) Scraping…
+2026-03-15 08:58:52 [INFO] [AHL] Total pages: 23, page 1 rows: 100
+2026-03-15 08:58:54 [INFO] [AHL] Page 2 rows: 100
+2026-03-15 08:58:56 [INFO] [AHL] Page 3 rows: 100
+2026-03-15 08:58:58 [INFO] [AHL] Page 4 rows: 100
+2026-03-15 08:59:00 [INFO] [AHL] Page 5 rows: 100
+2026-03-15 08:59:01 [INFO] [AHL] Page 6 rows: 100
+2026-03-15 08:59:03 [INFO] [AHL] Page 7 rows: 100
+2026-03-15 08:59:05 [INFO] [AHL] Page 8 rows: 77
+2026-03-15 08:59:07 [WARNING] [AHL] No rows on page 9, stopping
+2026-03-15 08:59:07 [INFO] [AHL] Saved 676 rows -> ../data/company\AHL.csv
+2026-03-15 08:59:07 [INFO] [AHPC] (4/263) Scraping…
+2026-03-15 08:59:11 [INFO] [AHPC] Total pages: 122, page 1 rows: 100
+2026-03-15 08:59:13 [INFO] [AHPC] Page 2 rows: 100
+2026-03-15 08:59:15 [INFO] [AHPC] Page 3 rows: 100
+2026-03-15 08:59:17 [INFO] [AHPC] Page 4 rows: 100
+2026-03-15 08:59:19 [INFO] [AHPC] Page 5 rows: 100
+2026-03-15 08:59:21 [INFO] [AHPC] Page 6 rows: 100
+2026-03-15 08:59:23 [INFO] [AHPC] Page 7 rows: 100
+2026-03-15 08:59:25 [INFO] [AHPC] Page 8 rows: 100
+2026-03-15 08:59:27 [INFO] [AHPC] Page 9 rows: 114
+2026-03-15 08:59:29 [INFO] [AHPC] Page 10 rows: 100
+2026-03-15 08:59:31 [INFO] [AHPC] Page 11 rows: 100
+2026-03-15 08:59:33 [INFO] [AHPC] Page 12 rows: 100
+2026-03-15 08:59:36 [INFO] [AHPC] Page 13 rows: 100
+2026-03-15 08:59:38 [INFO] [AHPC] Page 14 rows: 98
+2026-03-15 08:59:40 [INFO] [AHPC] Page 15 rows: 99
+2026-03-15 08:59:42 [INFO] [AHPC] Page 16 rows: 99
+2026-03-15 08:59:44 [INFO] [AHPC] Page 17 rows: 100
+2026-03-15 08:59:46 [INFO] [AHPC] Page 18 rows: 96
+2026-03-15 08:59:48 [INFO] [AHPC] Page 19 rows: 99
+2026-03-15 08:59:50 [INFO] [AHPC] Page 20 rows: 98
+2026-03-15 08:59:52 [INFO] [AHPC] Page 21 rows: 95
+2026-03-15 08:59:54 [INFO] [AHPC] Page 22 rows: 92
+2026-03-15 08:59:57 [INFO] [AHPC] Page 23 rows: 96
+2026-03-15 08:59:59 [INFO] [AHPC] Page 24 rows: 98
+2026-03-15 09:00:01 [INFO] [AHPC] Page 25 rows: 100
+2026-03-15 09:00:03 [INFO] [AHPC] Page 26 rows: 97
+2026-03-15 09:00:05 [INFO] [AHPC] Page 27 rows: 100
+2026-03-15 09:00:07 [INFO] [AHPC] Page 28 rows: 29
+2026-03-15 09:00:09 [WARNING] [AHPC] No rows on page 29, stopping
+2026-03-15 09:00:09 [INFO] [AHPC] Saved 2594 rows -> ../data/company\AHPC.csv
+2026-03-15 09:00:09 [INFO] [AKJCL] (5/263) Scraping…
+2026-03-15 09:00:13 [INFO] [AKJCL] Total pages: 55, page 1 rows: 100
+2026-03-15 09:00:15 [INFO] [AKJCL] Page 2 rows: 100
+2026-03-15 09:00:17 [INFO] [AKJCL] Page 3 rows: 100
+2026-03-15 09:00:19 [INFO] [AKJCL] Page 4 rows: 100
+2026-03-15 09:00:21 [INFO] [AKJCL] Page 5 rows: 100
+2026-03-15 09:00:23 [INFO] [AKJCL] Page 6 rows: 100
+2026-03-15 09:00:26 [INFO] [AKJCL] Page 7 rows: 100
+2026-03-15 09:00:28 [INFO] [AKJCL] Page 8 rows: 100
+2026-03-15 09:00:30 [INFO] [AKJCL] Page 9 rows: 106
+2026-03-15 09:00:32 [INFO] [AKJCL] Page 10 rows: 100
+2026-03-15 09:00:34 [INFO] [AKJCL] Page 11 rows: 100
+2026-03-15 09:00:36 [INFO] [AKJCL] Page 12 rows: 100
+2026-03-15 09:00:38 [INFO] [AKJCL] Page 13 rows: 100
+2026-03-15 09:00:40 [INFO] [AKJCL] Page 14 rows: 98
+2026-03-15 09:00:42 [INFO] [AKJCL] Page 15 rows: 99
+2026-03-15 09:00:44 [INFO] [AKJCL] Page 16 rows: 99
+2026-03-15 09:00:46 [INFO] [AKJCL] Page 17 rows: 100
+2026-03-15 09:00:48 [INFO] [AKJCL] Page 18 rows: 33
+2026-03-15 09:00:50 [WARNING] [AKJCL] No rows on page 19, stopping
+2026-03-15 09:00:50 [INFO] [AKJCL] Saved 1626 rows -> ../data/company\AKJCL.csv
+2026-03-15 09:00:50 [INFO] [AKPL] (6/263) Scraping…
+2026-03-15 09:00:54 [INFO] [AKPL] Total pages: 68, page 1 rows: 100
+2026-03-15 09:00:56 [INFO] [AKPL] Page 2 rows: 100
+2026-03-15 09:00:58 [INFO] [AKPL] Page 3 rows: 100
+2026-03-15 09:01:00 [INFO] [AKPL] Page 4 rows: 100
+2026-03-15 09:01:02 [INFO] [AKPL] Page 5 rows: 100
+2026-03-15 09:01:04 [INFO] [AKPL] Page 6 rows: 100
+2026-03-15 09:01:06 [INFO] [AKPL] Page 7 rows: 100
+2026-03-15 09:01:08 [INFO] [AKPL] Page 8 rows: 100
+2026-03-15 09:01:11 [INFO] [AKPL] Page 9 rows: 105
+2026-03-15 09:01:13 [INFO] [AKPL] Page 10 rows: 100
+2026-03-15 09:01:15 [INFO] [AKPL] Page 11 rows: 100
+2026-03-15 09:01:17 [INFO] [AKPL] Page 12 rows: 100
+2026-03-15 09:01:19 [INFO] [AKPL] Page 13 rows: 100
+2026-03-15 09:01:21 [INFO] [AKPL] Page 14 rows: 98
+2026-03-15 09:01:23 [INFO] [AKPL] Page 15 rows: 99
+2026-03-15 09:01:25 [INFO] [AKPL] Page 16 rows: 99
+2026-03-15 09:01:27 [INFO] [AKPL] Page 17 rows: 100
+2026-03-15 09:01:29 [INFO] [AKPL] Page 18 rows: 96
+2026-03-15 09:01:31 [INFO] [AKPL] Page 19 rows: 99
+2026-03-15 09:01:33 [INFO] [AKPL] Page 20 rows: 98
+2026-03-15 09:01:35 [INFO] [AKPL] Page 21 rows: 95
+2026-03-15 09:01:37 [INFO] [AKPL] Page 22 rows: 26
+2026-03-15 09:01:39 [WARNING] [AKPL] No rows on page 23, stopping
+2026-03-15 09:01:39 [INFO] [AKPL] Saved 2006 rows -> ../data/company\AKPL.csv
+2026-03-15 09:01:39 [INFO] [ALBSL] (7/263) Scraping…
+2026-03-15 09:01:42 [INFO] [ALBSL] Total pages: 53, page 1 rows: 100
+2026-03-15 09:01:44 [INFO] [ALBSL] Page 2 rows: 100
+2026-03-15 09:01:46 [INFO] [ALBSL] Page 3 rows: 100
+2026-03-15 09:01:49 [INFO] [ALBSL] Page 4 rows: 100
+2026-03-15 09:01:51 [INFO] [ALBSL] Page 5 rows: 100
+2026-03-15 09:01:53 [INFO] [ALBSL] Page 6 rows: 100
+2026-03-15 09:01:55 [INFO] [ALBSL] Page 7 rows: 100
+2026-03-15 09:01:57 [INFO] [ALBSL] Page 8 rows: 100
+2026-03-15 09:01:59 [INFO] [ALBSL] Page 9 rows: 108
+2026-03-15 09:02:01 [INFO] [ALBSL] Page 10 rows: 100
+2026-03-15 09:02:03 [INFO] [ALBSL] Page 11 rows: 100
+2026-03-15 09:02:04 [INFO] [ALBSL] Page 12 rows: 100
+2026-03-15 09:02:06 [INFO] [ALBSL] Page 13 rows: 100
+2026-03-15 09:02:08 [INFO] [ALBSL] Page 14 rows: 98
+2026-03-15 09:02:10 [INFO] [ALBSL] Page 15 rows: 99
+2026-03-15 09:02:12 [INFO] [ALBSL] Page 16 rows: 99
+2026-03-15 09:02:13 [INFO] [ALBSL] Page 17 rows: 87
+2026-03-15 09:02:15 [WARNING] [ALBSL] No rows on page 18, stopping
+2026-03-15 09:02:15 [INFO] [ALBSL] Saved 1579 rows -> ../data/company\ALBSL.csv
+2026-03-15 09:02:15 [INFO] [ALICL] (8/263) Scraping…
+2026-03-15 09:02:19 [INFO] [ALICL] Total pages: 117, page 1 rows: 100
+2026-03-15 09:02:21 [INFO] [ALICL] Page 2 rows: 100
+2026-03-15 09:02:22 [INFO] [ALICL] Page 3 rows: 100
+2026-03-15 09:02:25 [INFO] [ALICL] Page 4 rows: 100
+2026-03-15 09:02:27 [INFO] [ALICL] Page 5 rows: 100
+2026-03-15 09:02:29 [INFO] [ALICL] Page 6 rows: 100
+2026-03-15 09:02:31 [INFO] [ALICL] Page 7 rows: 100
+2026-03-15 09:02:33 [INFO] [ALICL] Page 8 rows: 100
+2026-03-15 09:02:34 [INFO] [ALICL] Page 9 rows: 104
+2026-03-15 09:02:36 [INFO] [ALICL] Page 10 rows: 100
+2026-03-15 09:02:38 [INFO] [ALICL] Page 11 rows: 100
+2026-03-15 09:02:40 [INFO] [ALICL] Page 12 rows: 100
+2026-03-15 09:02:42 [INFO] [ALICL] Page 13 rows: 100
+2026-03-15 09:02:44 [INFO] [ALICL] Page 14 rows: 98
+2026-03-15 09:02:46 [INFO] [ALICL] Page 15 rows: 99
+2026-03-15 09:02:48 [INFO] [ALICL] Page 16 rows: 99
+2026-03-15 09:02:50 [INFO] [ALICL] Page 17 rows: 100
+2026-03-15 09:02:52 [INFO] [ALICL] Page 18 rows: 96
+2026-03-15 09:02:54 [INFO] [ALICL] Page 19 rows: 99
+2026-03-15 09:02:56 [INFO] [ALICL] Page 20 rows: 98
+2026-03-15 09:02:58 [INFO] [ALICL] Page 21 rows: 95
+2026-03-15 09:03:00 [INFO] [ALICL] Page 22 rows: 92
+2026-03-15 09:03:02 [INFO] [ALICL] Page 23 rows: 96
+2026-03-15 09:03:04 [INFO] [ALICL] Page 24 rows: 98
+2026-03-15 09:03:06 [INFO] [ALICL] Page 25 rows: 100
+2026-03-15 09:03:08 [INFO] [ALICL] Page 26 rows: 98
+2026-03-15 09:03:10 [INFO] [ALICL] Page 27 rows: 100
+2026-03-15 09:03:12 [INFO] [ALICL] Page 28 rows: 34
+2026-03-15 09:03:13 [WARNING] [ALICL] No rows on page 29, stopping
+2026-03-15 09:03:13 [INFO] [ALICL] Saved 2598 rows -> ../data/company\ALICL.csv
+2026-03-15 09:03:13 [INFO] [ANLB] (9/263) Scraping…
+2026-03-15 09:03:17 [INFO] [ANLB] Total pages: 22, page 1 rows: 100
+2026-03-15 09:03:19 [INFO] [ANLB] Page 2 rows: 100
+2026-03-15 09:03:21 [INFO] [ANLB] Page 3 rows: 100
+2026-03-15 09:03:22 [INFO] [ANLB] Page 4 rows: 100
+2026-03-15 09:03:24 [INFO] [ANLB] Page 5 rows: 100
+2026-03-15 09:03:26 [INFO] [ANLB] Page 6 rows: 100
+2026-03-15 09:03:28 [INFO] [ANLB] Page 7 rows: 100
+2026-03-15 09:03:29 [INFO] [ANLB] Page 8 rows: 49
+2026-03-15 09:03:31 [WARNING] [ANLB] No rows on page 9, stopping
+2026-03-15 09:03:31 [INFO] [ANLB] Saved 648 rows -> ../data/company\ANLB.csv
+2026-03-15 09:03:31 [INFO] [API] (10/263) Scraping…
+2026-03-15 09:03:35 [INFO] [API] Total pages: 79, page 1 rows: 100
+2026-03-15 09:03:37 [INFO] [API] Page 2 rows: 100
+2026-03-15 09:03:39 [INFO] [API] Page 3 rows: 100
+2026-03-15 09:03:41 [INFO] [API] Page 4 rows: 100
+2026-03-15 09:03:43 [INFO] [API] Page 5 rows: 100
+2026-03-15 09:03:45 [INFO] [API] Page 6 rows: 100
+2026-03-15 09:03:48 [INFO] [API] Page 7 rows: 100
+2026-03-15 09:03:50 [INFO] [API] Page 8 rows: 100
+2026-03-15 09:03:52 [INFO] [API] Page 9 rows: 110
+2026-03-15 09:03:54 [INFO] [API] Page 10 rows: 100
+2026-03-15 09:03:56 [INFO] [API] Page 11 rows: 100
+2026-03-15 09:03:58 [INFO] [API] Page 12 rows: 100
+2026-03-15 09:04:00 [INFO] [API] Page 13 rows: 100
+2026-03-15 09:04:02 [INFO] [API] Page 14 rows: 98
+2026-03-15 09:04:05 [INFO] [API] Page 15 rows: 99
+2026-03-15 09:04:07 [INFO] [API] Page 16 rows: 99
+2026-03-15 09:04:09 [INFO] [API] Page 17 rows: 100
+2026-03-15 09:04:11 [INFO] [API] Page 18 rows: 96
+2026-03-15 09:04:13 [INFO] [API] Page 19 rows: 99
+2026-03-15 09:04:15 [INFO] [API] Page 20 rows: 98
+2026-03-15 09:04:17 [INFO] [API] Page 21 rows: 95
+2026-03-15 09:04:19 [INFO] [API] Page 22 rows: 92
+2026-03-15 09:04:22 [INFO] [API] Page 23 rows: 96
+2026-03-15 09:04:24 [INFO] [API] Page 24 rows: 98
+2026-03-15 09:04:26 [INFO] [API] Page 25 rows: 51
+2026-03-15 09:04:28 [WARNING] [API] No rows on page 26, stopping
+2026-03-15 09:04:28 [INFO] [API] Saved 2319 rows -> ../data/company\API.csv
+2026-03-15 09:04:28 [INFO] [AVYAN] (11/263) Scraping…
+2026-03-15 09:04:31 [INFO] [AVYAN] Total pages: 26, page 1 rows: 100
+2026-03-15 09:04:33 [INFO] [AVYAN] Page 2 rows: 100
+2026-03-15 09:04:35 [INFO] [AVYAN] Page 3 rows: 100
+2026-03-15 09:04:38 [INFO] [AVYAN] Page 4 rows: 100
+2026-03-15 09:04:40 [INFO] [AVYAN] Page 5 rows: 100
+2026-03-15 09:04:42 [INFO] [AVYAN] Page 6 rows: 100
+2026-03-15 09:04:43 [INFO] [AVYAN] Page 7 rows: 100
+2026-03-15 09:04:45 [INFO] [AVYAN] Page 8 rows: 100
+2026-03-15 09:04:47 [INFO] [AVYAN] Page 9 rows: 84
+2026-03-15 09:04:49 [WARNING] [AVYAN] No rows on page 10, stopping
+2026-03-15 09:04:49 [INFO] [AVYAN] Saved 778 rows -> ../data/company\AVYAN.csv
+2026-03-15 09:04:49 [INFO] [BANDIPUR] (12/263) Scraping…
+2026-03-15 09:04:53 [INFO] [BANDIPUR] Total pages: 3, page 1 rows: 75
+2026-03-15 09:04:54 [INFO] [BANDIPUR] Page 2 rows: 75
+2026-03-15 09:04:56 [WARNING] [BANDIPUR] No rows on page 3, stopping
+2026-03-15 09:04:56 [INFO] [BANDIPUR] Saved 75 rows -> ../data/company\BANDIPUR.csv
+2026-03-15 09:04:56 [INFO] [BARUN] (13/263) Scraping…
+2026-03-15 09:05:00 [INFO] [BARUN] Total pages: 77, page 1 rows: 100
+2026-03-15 09:05:02 [INFO] [BARUN] Page 2 rows: 100
+2026-03-15 09:05:03 [INFO] [BARUN] Page 3 rows: 100
+2026-03-15 09:05:05 [INFO] [BARUN] Page 4 rows: 100
+2026-03-15 09:05:07 [INFO] [BARUN] Page 5 rows: 100
+2026-03-15 09:05:09 [INFO] [BARUN] Page 6 rows: 100
+2026-03-15 09:05:11 [INFO] [BARUN] Page 7 rows: 100
+2026-03-15 09:05:13 [INFO] [BARUN] Page 8 rows: 100
+2026-03-15 09:05:14 [INFO] [BARUN] Page 9 rows: 101
+2026-03-15 09:05:16 [INFO] [BARUN] Page 10 rows: 100
+2026-03-15 09:05:18 [INFO] [BARUN] Page 11 rows: 100
+2026-03-15 09:05:21 [INFO] [BARUN] Page 12 rows: 100
+2026-03-15 09:05:23 [INFO] [BARUN] Page 13 rows: 100
+2026-03-15 09:05:25 [INFO] [BARUN] Page 14 rows: 98
+2026-03-15 09:05:27 [INFO] [BARUN] Page 15 rows: 99
+2026-03-15 09:05:29 [INFO] [BARUN] Page 16 rows: 98
+2026-03-15 09:05:31 [INFO] [BARUN] Page 17 rows: 97
+2026-03-15 09:05:35 [INFO] [BARUN] Page 18 rows: 98
+2026-03-15 09:05:37 [INFO] [BARUN] Page 19 rows: 98
+2026-03-15 09:05:39 [INFO] [BARUN] Page 20 rows: 97
+2026-03-15 09:05:41 [INFO] [BARUN] Page 21 rows: 93
+2026-03-15 09:05:42 [INFO] [BARUN] Page 22 rows: 96
+2026-03-15 09:05:44 [INFO] [BARUN] Page 23 rows: 98
+2026-03-15 09:05:46 [INFO] [BARUN] Page 24 rows: 80
+2026-03-15 09:05:48 [WARNING] [BARUN] No rows on page 25, stopping
+2026-03-15 09:05:48 [INFO] [BARUN] Saved 2247 rows -> ../data/company\BARUN.csv
+2026-03-15 09:05:48 [INFO] [BBC] (14/263) Scraping…
+2026-03-15 09:05:52 [INFO] [BBC] Total pages: 69, page 1 rows: 100
+2026-03-15 09:05:53 [INFO] [BBC] Page 2 rows: 100
+2026-03-15 09:05:55 [INFO] [BBC] Page 3 rows: 100
+2026-03-15 09:05:57 [INFO] [BBC] Page 4 rows: 100
+2026-03-15 09:05:59 [INFO] [BBC] Page 5 rows: 100
+2026-03-15 09:06:00 [INFO] [BBC] Page 6 rows: 100
+2026-03-15 09:06:02 [INFO] [BBC] Page 7 rows: 100
+2026-03-15 09:06:04 [INFO] [BBC] Page 8 rows: 100
+2026-03-15 09:06:06 [INFO] [BBC] Page 9 rows: 102
+2026-03-15 09:06:07 [INFO] [BBC] Page 10 rows: 100
+2026-03-15 09:06:09 [INFO] [BBC] Page 11 rows: 100
+2026-03-15 09:06:11 [INFO] [BBC] Page 12 rows: 100
+2026-03-15 09:06:13 [INFO] [BBC] Page 13 rows: 100
+2026-03-15 09:06:15 [INFO] [BBC] Page 14 rows: 96
+2026-03-15 09:06:16 [INFO] [BBC] Page 15 rows: 100
+2026-03-15 09:06:18 [INFO] [BBC] Page 16 rows: 97
+2026-03-15 09:06:20 [INFO] [BBC] Page 17 rows: 97
+2026-03-15 09:06:22 [INFO] [BBC] Page 18 rows: 4
+2026-03-15 09:06:23 [WARNING] [BBC] No rows on page 19, stopping
+2026-03-15 09:06:23 [INFO] [BBC] Saved 1592 rows -> ../data/company\BBC.csv
+2026-03-15 09:06:23 [INFO] [BEDC] (15/263) Scraping…
+2026-03-15 09:06:27 [INFO] [BEDC] Total pages: 21, page 1 rows: 100
+2026-03-15 09:06:29 [INFO] [BEDC] Page 2 rows: 100
+2026-03-15 09:06:30 [INFO] [BEDC] Page 3 rows: 100
+2026-03-15 09:06:32 [INFO] [BEDC] Page 4 rows: 100
+2026-03-15 09:06:34 [INFO] [BEDC] Page 5 rows: 100
+2026-03-15 09:06:36 [INFO] [BEDC] Page 6 rows: 100
+2026-03-15 09:06:38 [INFO] [BEDC] Page 7 rows: 100
+2026-03-15 09:06:39 [INFO] [BEDC] Page 8 rows: 25
+2026-03-15 09:06:41 [WARNING] [BEDC] No rows on page 9, stopping
+2026-03-15 09:06:41 [INFO] [BEDC] Saved 624 rows -> ../data/company\BEDC.csv
+2026-03-15 09:06:41 [INFO] [BFC] (16/263) Scraping…
+2026-03-15 09:06:45 [INFO] [BFC] Total pages: 58, page 1 rows: 100
+2026-03-15 09:06:47 [INFO] [BFC] Page 2 rows: 100
+2026-03-15 09:06:49 [INFO] [BFC] Page 3 rows: 100
+2026-03-15 09:06:50 [INFO] [BFC] Page 4 rows: 100
+2026-03-15 09:06:52 [INFO] [BFC] Page 5 rows: 100
+2026-03-15 09:06:55 [INFO] [BFC] Page 6 rows: 100
+2026-03-15 09:06:57 [INFO] [BFC] Page 7 rows: 100
+2026-03-15 09:06:59 [INFO] [BFC] Page 8 rows: 100
+2026-03-15 09:07:01 [INFO] [BFC] Page 9 rows: 103
+2026-03-15 09:07:03 [INFO] [BFC] Page 10 rows: 100
+2026-03-15 09:07:04 [INFO] [BFC] Page 11 rows: 100
+2026-03-15 09:07:06 [INFO] [BFC] Page 12 rows: 100
+2026-03-15 09:07:08 [INFO] [BFC] Page 13 rows: 100
+2026-03-15 09:07:10 [INFO] [BFC] Page 14 rows: 98
+2026-03-15 09:07:12 [INFO] [BFC] Page 15 rows: 99
+2026-03-15 09:07:14 [INFO] [BFC] Page 16 rows: 98
+2026-03-15 09:07:15 [INFO] [BFC] Page 17 rows: 98
+2026-03-15 09:07:17 [INFO] [BFC] Page 18 rows: 97
+2026-03-15 09:07:19 [INFO] [BFC] Page 19 rows: 20
+2026-03-15 09:07:21 [WARNING] [BFC] No rows on page 20, stopping
+2026-03-15 09:07:21 [INFO] [BFC] Saved 1704 rows -> ../data/company\BFC.csv
+2026-03-15 09:07:21 [INFO] [BGWT] (17/263) Scraping…
+2026-03-15 09:07:24 [INFO] [BGWT] Total pages: 19, page 1 rows: 100
+2026-03-15 09:07:26 [INFO] [BGWT] Page 2 rows: 100
+2026-03-15 09:07:28 [INFO] [BGWT] Page 3 rows: 100
+2026-03-15 09:07:30 [INFO] [BGWT] Page 4 rows: 100
+2026-03-15 09:07:31 [INFO] [BGWT] Page 5 rows: 100
+2026-03-15 09:07:33 [INFO] [BGWT] Page 6 rows: 100
+2026-03-15 09:07:35 [INFO] [BGWT] Page 7 rows: 41
+2026-03-15 09:07:37 [WARNING] [BGWT] No rows on page 8, stopping
+2026-03-15 09:07:37 [INFO] [BGWT] Saved 540 rows -> ../data/company\BGWT.csv
+2026-03-15 09:07:37 [INFO] [BHCL] (18/263) Scraping…
+2026-03-15 09:07:40 [INFO] [BHCL] Total pages: 4, page 1 rows: 100
+2026-03-15 09:07:42 [INFO] [BHCL] Page 2 rows: 100
+2026-03-15 09:07:44 [INFO] [BHCL] Page 3 rows: 15
+2026-03-15 09:07:45 [WARNING] [BHCL] No rows on page 4, stopping
+2026-03-15 09:07:45 [INFO] [BHCL] Saved 115 rows -> ../data/company\BHCL.csv
+2026-03-15 09:07:45 [INFO] [BHDC] (19/263) Scraping…
+2026-03-15 09:07:49 [INFO] [BHDC] Total pages: 28, page 1 rows: 100
+2026-03-15 09:07:51 [INFO] [BHDC] Page 2 rows: 100
+2026-03-15 09:07:53 [INFO] [BHDC] Page 3 rows: 100
+2026-03-15 09:07:55 [INFO] [BHDC] Page 4 rows: 100
+2026-03-15 09:07:57 [INFO] [BHDC] Page 5 rows: 100
+2026-03-15 09:07:59 [INFO] [BHDC] Page 6 rows: 100
+2026-03-15 09:08:01 [INFO] [BHDC] Page 7 rows: 100
+2026-03-15 09:08:02 [INFO] [BHDC] Page 8 rows: 100
+2026-03-15 09:08:04 [INFO] [BHDC] Page 9 rows: 105
+2026-03-15 09:08:06 [INFO] [BHDC] Page 10 rows: 24
+2026-03-15 09:08:08 [WARNING] [BHDC] No rows on page 11, stopping
+2026-03-15 09:08:08 [INFO] [BHDC] Saved 822 rows -> ../data/company\BHDC.csv
+2026-03-15 09:08:08 [INFO] [BHL] (20/263) Scraping…
+2026-03-15 09:08:11 [INFO] [BHL] Total pages: 30, page 1 rows: 100
+2026-03-15 09:08:13 [INFO] [BHL] Page 2 rows: 100
+2026-03-15 09:08:15 [INFO] [BHL] Page 3 rows: 100
+2026-03-15 09:08:17 [INFO] [BHL] Page 4 rows: 100
+2026-03-15 09:08:19 [INFO] [BHL] Page 5 rows: 100
+2026-03-15 09:08:20 [INFO] [BHL] Page 6 rows: 100
+2026-03-15 09:08:22 [INFO] [BHL] Page 7 rows: 100
+2026-03-15 09:08:24 [INFO] [BHL] Page 8 rows: 100
+2026-03-15 09:08:26 [INFO] [BHL] Page 9 rows: 107
+2026-03-15 09:08:28 [INFO] [BHL] Page 10 rows: 74
+2026-03-15 09:08:29 [WARNING] [BHL] No rows on page 11, stopping
+2026-03-15 09:08:29 [INFO] [BHL] Saved 873 rows -> ../data/company\BHL.csv
+2026-03-15 09:08:29 [INFO] [BHPL] (21/263) Scraping…
+2026-03-15 09:08:33 [INFO] [BHPL] Total pages: 25, page 1 rows: 100
+2026-03-15 09:08:35 [INFO] [BHPL] Page 2 rows: 100
+2026-03-15 09:08:37 [INFO] [BHPL] Page 3 rows: 100
+2026-03-15 09:08:38 [INFO] [BHPL] Page 4 rows: 100
+2026-03-15 09:08:40 [INFO] [BHPL] Page 5 rows: 100
+2026-03-15 09:08:42 [INFO] [BHPL] Page 6 rows: 100
+2026-03-15 09:08:44 [INFO] [BHPL] Page 7 rows: 100
+2026-03-15 09:08:45 [INFO] [BHPL] Page 8 rows: 100
+2026-03-15 09:08:47 [INFO] [BHPL] Page 9 rows: 23
+2026-03-15 09:08:49 [WARNING] [BHPL] No rows on page 10, stopping
+2026-03-15 09:08:49 [INFO] [BHPL] Saved 722 rows -> ../data/company\BHPL.csv
+2026-03-15 09:08:49 [INFO] [BNHC] (22/263) Scraping…
+2026-03-15 09:08:52 [INFO] [BNHC] Total pages: 32, page 1 rows: 100
+2026-03-15 09:08:54 [INFO] [BNHC] Page 2 rows: 100
+2026-03-15 09:08:56 [INFO] [BNHC] Page 3 rows: 100
+2026-03-15 09:08:58 [INFO] [BNHC] Page 4 rows: 100
+2026-03-15 09:09:00 [INFO] [BNHC] Page 5 rows: 100
+2026-03-15 09:09:02 [INFO] [BNHC] Page 6 rows: 100
+2026-03-15 09:09:04 [INFO] [BNHC] Page 7 rows: 100
+2026-03-15 09:09:05 [INFO] [BNHC] Page 8 rows: 100
+2026-03-15 09:09:07 [INFO] [BNHC] Page 9 rows: 102
+2026-03-15 09:09:09 [INFO] [BNHC] Page 10 rows: 100
+2026-03-15 09:09:11 [INFO] [BNHC] Page 11 rows: 55
+2026-03-15 09:09:14 [WARNING] [BNHC] No rows on page 12, stopping
+2026-03-15 09:09:14 [INFO] [BNHC] Saved 954 rows -> ../data/company\BNHC.csv
+2026-03-15 09:09:14 [INFO] [BNL] (23/263) Scraping…
+2026-03-15 09:09:19 [INFO] [BNL] Total pages: 14, page 1 rows: 100
+2026-03-15 09:09:21 [INFO] [BNL] Page 2 rows: 100
+2026-03-15 09:09:23 [INFO] [BNL] Page 3 rows: 100
+2026-03-15 09:09:25 [INFO] [BNL] Page 4 rows: 100
+2026-03-15 09:09:27 [INFO] [BNL] Page 5 rows: 64
+2026-03-15 09:09:30 [WARNING] [BNL] No rows on page 6, stopping
+2026-03-15 09:09:30 [INFO] [BNL] Saved 364 rows -> ../data/company\BNL.csv
+2026-03-15 09:09:30 [INFO] [BNT] (24/263) Scraping…
+2026-03-15 09:09:34 [INFO] [BNT] Total pages: 66, page 1 rows: 100
+2026-03-15 09:09:36 [INFO] [BNT] Page 2 rows: 100
+2026-03-15 09:09:38 [INFO] [BNT] Page 3 rows: 100
+2026-03-15 09:09:40 [INFO] [BNT] Page 4 rows: 100
+2026-03-15 09:09:42 [INFO] [BNT] Page 5 rows: 100
+2026-03-15 09:09:44 [INFO] [BNT] Page 6 rows: 100
+2026-03-15 09:09:46 [INFO] [BNT] Page 7 rows: 100
+2026-03-15 09:09:48 [INFO] [BNT] Page 8 rows: 100
+2026-03-15 09:09:50 [INFO] [BNT] Page 9 rows: 101
+2026-03-15 09:09:52 [INFO] [BNT] Page 10 rows: 100
+2026-03-15 09:09:54 [INFO] [BNT] Page 11 rows: 100
+2026-03-15 09:09:56 [INFO] [BNT] Page 12 rows: 100
+2026-03-15 09:09:58 [INFO] [BNT] Page 13 rows: 100
+2026-03-15 09:10:00 [INFO] [BNT] Page 14 rows: 97
+2026-03-15 09:10:02 [INFO] [BNT] Page 15 rows: 99
+2026-03-15 09:10:04 [INFO] [BNT] Page 16 rows: 98
+2026-03-15 09:10:06 [INFO] [BNT] Page 17 rows: 99
+2026-03-15 09:10:08 [INFO] [BNT] Page 18 rows: 95
+2026-03-15 09:10:10 [INFO] [BNT] Page 19 rows: 92
+2026-03-15 09:10:11 [INFO] [BNT] Page 20 rows: 51
+2026-03-15 09:10:13 [WARNING] [BNT] No rows on page 21, stopping
+2026-03-15 09:10:13 [INFO] [BNT] Saved 1828 rows -> ../data/company\BNT.csv
+2026-03-15 09:10:13 [INFO] [BPCL] (25/263) Scraping…
+2026-03-15 09:10:17 [INFO] [BPCL] Total pages: 121, page 1 rows: 100
+2026-03-15 09:10:19 [INFO] [BPCL] Page 2 rows: 100
+2026-03-15 09:10:21 [INFO] [BPCL] Page 3 rows: 100
+2026-03-15 09:10:23 [INFO] [BPCL] Page 4 rows: 100
+2026-03-15 09:10:26 [INFO] [BPCL] Page 5 rows: 100
+2026-03-15 09:10:28 [INFO] [BPCL] Page 6 rows: 100
+2026-03-15 09:10:30 [INFO] [BPCL] Page 7 rows: 100
+2026-03-15 09:10:32 [INFO] [BPCL] Page 8 rows: 100
+2026-03-15 09:10:34 [INFO] [BPCL] Page 9 rows: 101
+2026-03-15 09:10:36 [INFO] [BPCL] Page 10 rows: 100
+2026-03-15 09:10:39 [INFO] [BPCL] Page 11 rows: 100
+2026-03-15 09:10:41 [INFO] [BPCL] Page 12 rows: 100
+2026-03-15 09:10:45 [INFO] [BPCL] Page 13 rows: 100
+2026-03-15 09:10:50 [INFO] [BPCL] Page 14 rows: 98
+2026-03-15 09:10:52 [INFO] [BPCL] Page 15 rows: 99
+2026-03-15 09:10:54 [INFO] [BPCL] Page 16 rows: 99
+2026-03-15 09:10:56 [INFO] [BPCL] Page 17 rows: 100
+2026-03-15 09:10:58 [INFO] [BPCL] Page 18 rows: 96
+2026-03-15 09:11:00 [INFO] [BPCL] Page 19 rows: 99
+2026-03-15 09:11:02 [INFO] [BPCL] Page 20 rows: 98
+2026-03-15 09:11:05 [INFO] [BPCL] Page 21 rows: 95
+2026-03-15 09:11:07 [INFO] [BPCL] Page 22 rows: 92
+2026-03-15 09:11:09 [INFO] [BPCL] Page 23 rows: 96
+2026-03-15 09:11:11 [INFO] [BPCL] Page 24 rows: 98
+2026-03-15 09:11:13 [INFO] [BPCL] Page 25 rows: 98
+2026-03-15 09:11:15 [INFO] [BPCL] Page 26 rows: 99
+2026-03-15 09:11:19 [INFO] Starting full scrape for 263 companies
+2026-03-15 09:11:19 [INFO] [ACLBSL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [ADBL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [AHL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [AHPC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [AKJCL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [AKPL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [ALBSL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [ALICL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [ANLB] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [API] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [AVYAN] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BANDIPUR] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BARUN] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BBC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BEDC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BFC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BGWT] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BHCL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BHDC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BHL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BHPL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BNHC] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BNL] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BNT] Skipping (CSV exists)
+2026-03-15 09:11:19 [INFO] [BPCL] (25/263) Scraping…
+2026-03-15 09:11:23 [INFO] [BPCL] Total pages: 121, page 1 rows: 100
+2026-03-15 09:11:25 [INFO] [BPCL] Page 2 rows: 100
+2026-03-15 09:11:27 [INFO] [BPCL] Page 3 rows: 100
+2026-03-15 09:11:29 [INFO] [BPCL] Page 4 rows: 100
+2026-03-15 09:11:31 [INFO] [BPCL] Page 5 rows: 100
+2026-03-15 09:11:33 [INFO] [BPCL] Page 6 rows: 100
+2026-03-15 09:11:35 [INFO] [BPCL] Page 7 rows: 100
+2026-03-15 09:11:37 [INFO] [BPCL] Page 8 rows: 100
+2026-03-15 09:11:39 [INFO] [BPCL] Page 9 rows: 101
+2026-03-15 09:11:41 [INFO] [BPCL] Page 10 rows: 100
+2026-03-15 09:11:43 [INFO] [BPCL] Page 11 rows: 100
+2026-03-15 09:11:45 [INFO] [BPCL] Page 12 rows: 100
+2026-03-15 09:11:48 [INFO] [BPCL] Page 13 rows: 100
+2026-03-15 09:11:50 [INFO] [BPCL] Page 14 rows: 98
+2026-03-15 09:11:53 [INFO] [BPCL] Page 15 rows: 99
+2026-03-15 09:11:55 [INFO] [BPCL] Page 16 rows: 99
+2026-03-15 09:11:57 [INFO] [BPCL] Page 17 rows: 100
+2026-03-15 09:12:00 [INFO] [BPCL] Page 18 rows: 96
+2026-03-15 09:12:02 [INFO] [BPCL] Page 19 rows: 99
+2026-03-15 09:12:04 [INFO] [BPCL] Page 20 rows: 98
+2026-03-15 09:12:06 [INFO] [BPCL] Page 21 rows: 95
+2026-03-15 09:12:07 [INFO] [BPCL] Page 22 rows: 92
+2026-03-15 09:12:09 [INFO] [BPCL] Page 23 rows: 96
+2026-03-15 09:12:11 [INFO] [BPCL] Page 24 rows: 98
+2026-03-15 09:12:13 [INFO] [BPCL] Page 25 rows: 98
+2026-03-15 09:12:15 [INFO] [BPCL] Page 26 rows: 99
+2026-03-15 09:12:18 [INFO] [BPCL] Page 27 rows: 91
+2026-03-15 09:12:20 [WARNING] [BPCL] No rows on page 28, stopping
+2026-03-15 09:12:20 [INFO] [BPCL] Saved 2555 rows -> ../data/company\BPCL.csv
+2026-03-15 09:12:20 [INFO] [BUNGAL] (26/263) Scraping…
+2026-03-15 09:12:24 [INFO] [BUNGAL] Total pages: 3, page 1 rows: 76
+2026-03-15 09:12:26 [INFO] [BUNGAL] Page 2 rows: 76
+2026-03-15 09:12:27 [WARNING] [BUNGAL] No rows on page 3, stopping
+2026-03-15 09:12:27 [INFO] [BUNGAL] Saved 76 rows -> ../data/company\BUNGAL.csv
+2026-03-15 09:12:27 [INFO] [CBBL] (27/263) Scraping…
+2026-03-15 09:12:31 [INFO] [CBBL] Total pages: 104, page 1 rows: 100
+2026-03-15 09:12:33 [INFO] [CBBL] Page 2 rows: 100
+2026-03-15 09:12:35 [INFO] [CBBL] Page 3 rows: 100
+2026-03-15 09:12:37 [INFO] [CBBL] Page 4 rows: 100
+2026-03-15 09:12:39 [INFO] [CBBL] Page 5 rows: 100
+2026-03-15 09:12:41 [INFO] [CBBL] Page 6 rows: 100
+2026-03-15 09:12:43 [INFO] [CBBL] Page 7 rows: 100
+2026-03-15 09:12:46 [INFO] [CBBL] Page 8 rows: 100
+2026-03-15 09:12:48 [INFO] [CBBL] Page 9 rows: 105
+2026-03-15 09:12:50 [INFO] [CBBL] Page 10 rows: 100
+2026-03-15 09:12:53 [INFO] [CBBL] Page 11 rows: 100
+2026-03-15 09:12:55 [INFO] [CBBL] Page 12 rows: 100
+2026-03-15 09:12:57 [INFO] [CBBL] Page 13 rows: 100
+2026-03-15 09:12:59 [INFO] [CBBL] Page 14 rows: 98
+2026-03-15 09:13:01 [INFO] [CBBL] Page 15 rows: 99
+2026-03-15 09:13:04 [INFO] [CBBL] Page 16 rows: 99
+2026-03-15 09:13:06 [INFO] [CBBL] Page 17 rows: 100
+2026-03-15 09:13:09 [INFO] [CBBL] Page 18 rows: 96
+2026-03-15 09:13:11 [INFO] [CBBL] Page 19 rows: 99
+2026-03-15 09:13:13 [INFO] [CBBL] Page 20 rows: 98
+2026-03-15 09:13:15 [INFO] [CBBL] Page 21 rows: 95
+2026-03-15 09:13:17 [INFO] [CBBL] Page 22 rows: 92
+2026-03-15 09:13:19 [INFO] [CBBL] Page 23 rows: 96
+2026-03-15 09:13:21 [INFO] [CBBL] Page 24 rows: 98
+2026-03-15 09:13:24 [INFO] [CBBL] Page 25 rows: 100
+2026-03-15 09:13:26 [INFO] [CBBL] Page 26 rows: 96
+2026-03-15 09:13:28 [INFO] [CBBL] Page 27 rows: 100
+2026-03-15 09:13:30 [INFO] [CBBL] Page 28 rows: 4
+2026-03-15 09:13:32 [WARNING] [CBBL] No rows on page 29, stopping
+2026-03-15 09:13:32 [INFO] [CBBL] Saved 2568 rows -> ../data/company\CBBL.csv
+2026-03-15 09:13:32 [INFO] [CFCL] (28/263) Scraping…
+2026-03-15 09:13:36 [INFO] [CFCL] Total pages: 94, page 1 rows: 100
+2026-03-15 09:13:39 [INFO] [CFCL] Page 2 rows: 100
+2026-03-15 09:13:42 [INFO] [CFCL] Page 3 rows: 100
+2026-03-15 09:13:44 [INFO] [CFCL] Page 4 rows: 100
+2026-03-15 09:13:46 [INFO] [CFCL] Page 5 rows: 100
+2026-03-15 09:13:48 [INFO] [CFCL] Page 6 rows: 100
+2026-03-15 09:13:50 [INFO] [CFCL] Page 7 rows: 100
+2026-03-15 09:13:52 [INFO] [CFCL] Page 8 rows: 100
+2026-03-15 09:13:55 [INFO] [CFCL] Page 9 rows: 104
+2026-03-15 09:13:57 [INFO] [CFCL] Page 10 rows: 100
+2026-03-15 09:13:59 [INFO] [CFCL] Page 11 rows: 100
+2026-03-15 09:14:01 [INFO] [CFCL] Page 12 rows: 100
+2026-03-15 09:14:03 [INFO] [CFCL] Page 13 rows: 100
+2026-03-15 09:14:05 [INFO] [CFCL] Page 14 rows: 98
+2026-03-15 09:14:07 [INFO] [CFCL] Page 15 rows: 99
+2026-03-15 09:14:09 [INFO] [CFCL] Page 16 rows: 98
+2026-03-15 09:14:11 [INFO] [CFCL] Page 17 rows: 99
+2026-03-15 09:14:13 [INFO] [CFCL] Page 18 rows: 97
+2026-03-15 09:14:15 [INFO] [CFCL] Page 19 rows: 99
+2026-03-15 09:14:17 [INFO] [CFCL] Page 20 rows: 96
+2026-03-15 09:14:19 [INFO] [CFCL] Page 21 rows: 96
+2026-03-15 09:14:21 [INFO] [CFCL] Page 22 rows: 98
+2026-03-15 09:14:24 [INFO] [CFCL] Page 23 rows: 100
+2026-03-15 09:14:25 [INFO] [CFCL] Page 24 rows: 20
+2026-03-15 09:14:27 [WARNING] [CFCL] No rows on page 25, stopping
+2026-03-15 09:14:27 [INFO] [CFCL] Saved 2197 rows -> ../data/company\CFCL.csv
+2026-03-15 09:14:27 [INFO] [CGH] (29/263) Scraping…
+2026-03-15 09:14:31 [INFO] [CGH] Total pages: 40, page 1 rows: 100
+2026-03-15 09:14:33 [INFO] [CGH] Page 2 rows: 100
+2026-03-15 09:14:35 [INFO] [CGH] Page 3 rows: 100
+2026-03-15 09:14:37 [INFO] [CGH] Page 4 rows: 100
+2026-03-15 09:14:39 [INFO] [CGH] Page 5 rows: 100
+2026-03-15 09:14:41 [INFO] [CGH] Page 6 rows: 100
+2026-03-15 09:14:43 [INFO] [CGH] Page 7 rows: 100
+2026-03-15 09:14:45 [INFO] [CGH] Page 8 rows: 100
+2026-03-15 09:14:47 [INFO] [CGH] Page 9 rows: 102
+2026-03-15 09:14:50 [INFO] [CGH] Page 10 rows: 100
+2026-03-15 09:14:51 [INFO] [CGH] Page 11 rows: 100
+2026-03-15 09:14:53 [INFO] [CGH] Page 12 rows: 100
+2026-03-15 09:14:55 [INFO] [CGH] Page 13 rows: 83
+2026-03-15 09:14:57 [WARNING] [CGH] No rows on page 14, stopping
+2026-03-15 09:14:57 [INFO] [CGH] Saved 1181 rows -> ../data/company\CGH.csv
+2026-03-15 09:14:57 [INFO] [CHCL] (30/263) Scraping…
+2026-03-15 09:15:01 [INFO] [CHCL] Total pages: 145, page 1 rows: 100
+2026-03-15 09:15:03 [INFO] [CHCL] Page 2 rows: 100
+2026-03-15 09:15:06 [INFO] [CHCL] Page 3 rows: 100
+2026-03-15 09:15:08 [INFO] [CHCL] Page 4 rows: 100
+2026-03-15 09:15:10 [INFO] [CHCL] Page 5 rows: 100
+2026-03-15 09:15:13 [INFO] [CHCL] Page 6 rows: 100
+2026-03-15 09:15:15 [INFO] [CHCL] Page 7 rows: 100
+2026-03-15 09:15:17 [INFO] [CHCL] Page 8 rows: 100
+2026-03-15 09:15:19 [INFO] [CHCL] Page 9 rows: 107
+2026-03-15 09:15:23 [INFO] [CHCL] Page 10 rows: 100
+2026-03-15 09:15:25 [INFO] [CHCL] Page 11 rows: 100
+2026-03-15 09:15:27 [INFO] [CHCL] Page 12 rows: 100
+2026-03-15 09:15:29 [INFO] [CHCL] Page 13 rows: 100
+2026-03-15 09:15:31 [INFO] [CHCL] Page 14 rows: 98
+2026-03-15 09:15:33 [INFO] [CHCL] Page 15 rows: 99
+2026-03-15 09:15:37 [INFO] [CHCL] Page 16 rows: 99
+2026-03-15 09:15:39 [INFO] [CHCL] Page 17 rows: 100
+2026-03-15 09:15:42 [INFO] [CHCL] Page 18 rows: 96
+2026-03-15 09:15:44 [INFO] [CHCL] Page 19 rows: 99
+2026-03-15 09:15:46 [INFO] [CHCL] Page 20 rows: 98
+2026-03-15 09:15:48 [INFO] [CHCL] Page 21 rows: 95
+2026-03-15 09:15:50 [INFO] [CHCL] Page 22 rows: 92
+2026-03-15 09:15:53 [INFO] [CHCL] Page 23 rows: 96
+2026-03-15 09:15:55 [INFO] [CHCL] Page 24 rows: 98
+2026-03-15 09:15:57 [INFO] [CHCL] Page 25 rows: 100
+2026-03-15 09:15:59 [INFO] [CHCL] Page 26 rows: 97
+2026-03-15 09:16:01 [INFO] [CHCL] Page 27 rows: 100
+2026-03-15 09:16:03 [INFO] [CHCL] Page 28 rows: 42
+2026-03-15 09:16:05 [WARNING] [CHCL] No rows on page 29, stopping
+2026-03-15 09:16:05 [INFO] [CHCL] Saved 2608 rows -> ../data/company\CHCL.csv
+2026-03-15 09:16:05 [INFO] [CHDC] (31/263) Scraping…
+2026-03-15 09:16:10 [INFO] [CHDC] Total pages: 37, page 1 rows: 100
+2026-03-15 09:16:12 [INFO] [CHDC] Page 2 rows: 100
+2026-03-15 09:16:14 [INFO] [CHDC] Page 3 rows: 100
+2026-03-15 09:16:16 [INFO] [CHDC] Page 4 rows: 100
+2026-03-15 09:16:18 [INFO] [CHDC] Page 5 rows: 100
+2026-03-15 09:16:20 [INFO] [CHDC] Page 6 rows: 100
+2026-03-15 09:16:23 [INFO] [CHDC] Page 7 rows: 100
+2026-03-15 09:16:25 [INFO] [CHDC] Page 8 rows: 100
+2026-03-15 09:16:27 [INFO] [CHDC] Page 9 rows: 101
+2026-03-15 09:16:29 [INFO] [CHDC] Page 10 rows: 100
+2026-03-15 09:16:31 [INFO] [CHDC] Page 11 rows: 100
+2026-03-15 09:16:33 [INFO] [CHDC] Page 12 rows: 100
+2026-03-15 09:16:35 [INFO] [CHDC] Page 13 rows: 1
+2026-03-15 09:16:37 [WARNING] [CHDC] No rows on page 14, stopping
+2026-03-15 09:16:37 [INFO] [CHDC] Saved 1099 rows -> ../data/company\CHDC.csv
+2026-03-15 09:16:37 [INFO] [CHL] (32/263) Scraping…
+2026-03-15 09:16:41 [INFO] [CHL] Total pages: 64, page 1 rows: 100
+2026-03-15 09:16:43 [INFO] [CHL] Page 2 rows: 100
+2026-03-15 09:16:45 [INFO] [CHL] Page 3 rows: 100
+2026-03-15 09:16:47 [INFO] [CHL] Page 4 rows: 100
+2026-03-15 09:16:49 [INFO] [CHL] Page 5 rows: 100
+2026-03-15 09:16:51 [INFO] [CHL] Page 6 rows: 100
+2026-03-15 09:16:53 [INFO] [CHL] Page 7 rows: 100
+2026-03-15 09:16:55 [INFO] [CHL] Page 8 rows: 100
+2026-03-15 09:16:57 [INFO] [CHL] Page 9 rows: 101
+2026-03-15 09:16:59 [INFO] [CHL] Page 10 rows: 100
+2026-03-15 09:17:01 [INFO] [CHL] Page 11 rows: 100
+2026-03-15 09:17:03 [INFO] [CHL] Page 12 rows: 100
+2026-03-15 09:17:05 [INFO] [CHL] Page 13 rows: 100
+2026-03-15 09:17:07 [INFO] [CHL] Page 14 rows: 98
+2026-03-15 09:17:09 [INFO] [CHL] Page 15 rows: 99
+2026-03-15 09:17:11 [INFO] [CHL] Page 16 rows: 98
+2026-03-15 09:17:13 [INFO] [CHL] Page 17 rows: 98
+2026-03-15 09:17:15 [INFO] [CHL] Page 18 rows: 97
+2026-03-15 09:17:17 [INFO] [CHL] Page 19 rows: 99
+2026-03-15 09:17:19 [INFO] [CHL] Page 20 rows: 96
+2026-03-15 09:17:21 [INFO] [CHL] Page 21 rows: 8
+2026-03-15 09:17:23 [WARNING] [CHL] No rows on page 22, stopping
+2026-03-15 09:17:23 [INFO] [CHL] Saved 1890 rows -> ../data/company\CHL.csv
+2026-03-15 09:17:23 [INFO] [CIT] (33/263) Scraping…
+2026-03-15 09:17:27 [INFO] [CIT] Total pages: 109, page 1 rows: 100
+2026-03-15 09:17:29 [INFO] [CIT] Page 2 rows: 100
+2026-03-15 09:17:31 [INFO] [CIT] Page 3 rows: 100
+2026-03-15 09:17:33 [INFO] [CIT] Page 4 rows: 100
+2026-03-15 09:17:36 [INFO] [CIT] Page 5 rows: 100
+2026-03-15 09:17:38 [INFO] [CIT] Page 6 rows: 100
+2026-03-15 09:17:41 [INFO] [CIT] Page 7 rows: 100
+2026-03-15 09:17:43 [INFO] [CIT] Page 8 rows: 100
+2026-03-15 09:17:45 [INFO] [CIT] Page 9 rows: 111
+2026-03-15 09:17:47 [INFO] [CIT] Page 10 rows: 100
+2026-03-15 09:17:49 [INFO] [CIT] Page 11 rows: 100
+2026-03-15 09:17:51 [INFO] [CIT] Page 12 rows: 100
+2026-03-15 09:17:54 [INFO] [CIT] Page 13 rows: 100
+2026-03-15 09:17:56 [INFO] [CIT] Page 14 rows: 98
+2026-03-15 09:17:58 [INFO] [CIT] Page 15 rows: 99
+2026-03-15 09:18:00 [INFO] [CIT] Page 16 rows: 99
+2026-03-15 09:18:02 [INFO] [CIT] Page 17 rows: 100
+2026-03-15 09:18:04 [INFO] [CIT] Page 18 rows: 96
+2026-03-15 09:18:07 [INFO] [CIT] Page 19 rows: 99
+2026-03-15 09:18:09 [INFO] [CIT] Page 20 rows: 98
+2026-03-15 09:18:11 [INFO] [CIT] Page 21 rows: 95
+2026-03-15 09:18:13 [INFO] [CIT] Page 22 rows: 92
+2026-03-15 09:18:15 [INFO] [CIT] Page 23 rows: 96
+2026-03-15 09:18:17 [INFO] [CIT] Page 24 rows: 98
+2026-03-15 09:18:19 [INFO] [CIT] Page 25 rows: 100
+2026-03-15 09:18:21 [INFO] [CIT] Page 26 rows: 80
+2026-03-15 09:18:23 [WARNING] [CIT] No rows on page 27, stopping
+2026-03-15 09:18:23 [INFO] [CIT] Saved 2448 rows -> ../data/company\CIT.csv
+2026-03-15 09:18:23 [INFO] [CITY] (34/263) Scraping…
+2026-03-15 09:18:28 [INFO] [CITY] Total pages: 21, page 1 rows: 100
+2026-03-15 09:18:29 [INFO] [CITY] Page 2 rows: 100
+2026-03-15 09:18:31 [INFO] [CITY] Page 3 rows: 100
+2026-03-15 09:18:34 [INFO] [CITY] Page 4 rows: 100
+2026-03-15 09:18:36 [INFO] [CITY] Page 5 rows: 100
+2026-03-15 09:18:38 [INFO] [CITY] Page 6 rows: 100
+2026-03-15 09:18:40 [INFO] [CITY] Page 7 rows: 100
+2026-03-15 09:18:42 [INFO] [CITY] Page 8 rows: 24
+2026-03-15 09:18:44 [WARNING] [CITY] No rows on page 9, stopping
+2026-03-15 09:18:44 [INFO] [CITY] Saved 623 rows -> ../data/company\CITY.csv
+2026-03-15 09:18:44 [INFO] [CKHL] (35/263) Scraping…
+2026-03-15 09:18:48 [INFO] [CKHL] Total pages: 17, page 1 rows: 100
+2026-03-15 09:18:50 [INFO] [CKHL] Page 2 rows: 100
+2026-03-15 09:18:52 [INFO] [CKHL] Page 3 rows: 100
+2026-03-15 09:18:54 [INFO] [CKHL] Page 4 rows: 100
+2026-03-15 09:18:56 [INFO] [CKHL] Page 5 rows: 100
+2026-03-15 09:18:58 [INFO] [CKHL] Page 6 rows: 100
+2026-03-15 09:19:01 [INFO] [CKHL] Page 7 rows: 3
+2026-03-15 09:19:02 [WARNING] [CKHL] No rows on page 8, stopping
+2026-03-15 09:19:02 [INFO] [CKHL] Saved 502 rows -> ../data/company\CKHL.csv
+2026-03-15 09:19:02 [INFO] [CLI] (36/263) Scraping…
+2026-03-15 09:19:06 [INFO] [CLI] Total pages: 19, page 1 rows: 100
+2026-03-15 09:19:09 [INFO] [CLI] Page 2 rows: 100
+2026-03-15 09:19:11 [INFO] [CLI] Page 3 rows: 100
+2026-03-15 09:19:13 [INFO] [CLI] Page 4 rows: 100
+2026-03-15 09:19:15 [INFO] [CLI] Page 5 rows: 100
+2026-03-15 09:19:17 [INFO] [CLI] Page 6 rows: 100
+2026-03-15 09:19:19 [INFO] [CLI] Page 7 rows: 48
+2026-03-15 09:19:21 [WARNING] [CLI] No rows on page 8, stopping
+2026-03-15 09:19:21 [INFO] [CLI] Saved 547 rows -> ../data/company\CLI.csv
+2026-03-15 09:19:21 [INFO] [CORBL] (37/263) Scraping…
+2026-03-15 09:19:25 [INFO] [CORBL] Total pages: 61, page 1 rows: 100
+2026-03-15 09:19:27 [INFO] [CORBL] Page 2 rows: 100
+2026-03-15 09:19:29 [INFO] [CORBL] Page 3 rows: 100
+2026-03-15 09:19:31 [INFO] [CORBL] Page 4 rows: 100
+2026-03-15 09:19:33 [INFO] [CORBL] Page 5 rows: 100
+2026-03-15 09:19:35 [INFO] [CORBL] Page 6 rows: 100
+2026-03-15 09:19:37 [INFO] [CORBL] Page 7 rows: 100
+2026-03-15 09:19:39 [INFO] [CORBL] Page 8 rows: 100
+2026-03-15 09:19:43 [INFO] [CORBL] Page 9 rows: 101
+2026-03-15 09:19:45 [INFO] [CORBL] Page 10 rows: 100
+2026-03-15 09:19:48 [INFO] [CORBL] Page 11 rows: 100
+2026-03-15 09:19:50 [INFO] [CORBL] Page 12 rows: 100
+2026-03-15 09:19:52 [INFO] [CORBL] Page 13 rows: 100
+2026-03-15 09:19:54 [INFO] [CORBL] Page 14 rows: 98
+2026-03-15 09:19:56 [INFO] [CORBL] Page 15 rows: 98
+2026-03-15 09:19:58 [INFO] [CORBL] Page 16 rows: 100
+2026-03-15 09:20:00 [INFO] [CORBL] Page 17 rows: 100
+2026-03-15 09:20:02 [INFO] [CORBL] Page 18 rows: 22
+2026-03-15 09:20:04 [WARNING] [CORBL] No rows on page 19, stopping
+2026-03-15 09:20:04 [INFO] [CORBL] Saved 1614 rows -> ../data/company\CORBL.csv
+2026-03-15 09:20:04 [INFO] [CREST] (38/263) Scraping…
+2026-03-15 09:20:08 [INFO] [CREST] Total pages: 7, page 1 rows: 100
+2026-03-15 09:20:10 [INFO] [CREST] Page 2 rows: 100
+2026-03-15 09:20:12 [INFO] [CREST] Page 3 rows: 100
+2026-03-15 09:20:14 [INFO] [CREST] Page 4 rows: 3
+2026-03-15 09:20:16 [WARNING] [CREST] No rows on page 5, stopping
+2026-03-15 09:20:16 [INFO] [CREST] Saved 203 rows -> ../data/company\CREST.csv
+2026-03-15 09:20:16 [INFO] [CYCL] (39/263) Scraping…
+2026-03-15 09:20:19 [INFO] [CYCL] Total pages: 23, page 1 rows: 100
+2026-03-15 09:20:21 [INFO] [CYCL] Page 2 rows: 100
+2026-03-15 09:20:24 [INFO] [CYCL] Page 3 rows: 100
+2026-03-15 09:20:26 [INFO] [CYCL] Page 4 rows: 100
+2026-03-15 09:20:28 [INFO] [CYCL] Page 5 rows: 100
+2026-03-15 09:20:30 [INFO] [CYCL] Page 6 rows: 100
+2026-03-15 09:20:32 [INFO] [CYCL] Page 7 rows: 100
+2026-03-15 09:20:34 [INFO] [CYCL] Page 8 rows: 85
+2026-03-15 09:20:35 [WARNING] [CYCL] No rows on page 9, stopping
+2026-03-15 09:20:35 [INFO] [CYCL] Saved 684 rows -> ../data/company\CYCL.csv
+2026-03-15 09:20:35 [INFO] [CZBIL] (40/263) Scraping…
+2026-03-15 09:20:40 [INFO] [CZBIL] Total pages: 127, page 1 rows: 100
+2026-03-15 09:20:42 [INFO] [CZBIL] Page 2 rows: 100
+2026-03-15 09:20:44 [INFO] [CZBIL] Page 3 rows: 100
+2026-03-15 09:20:46 [INFO] [CZBIL] Page 4 rows: 100
+2026-03-15 09:20:48 [INFO] [CZBIL] Page 5 rows: 100
+2026-03-15 09:20:50 [INFO] [CZBIL] Page 6 rows: 100
+2026-03-15 09:20:52 [INFO] [CZBIL] Page 7 rows: 100
+2026-03-15 09:20:54 [INFO] [CZBIL] Page 8 rows: 100
+2026-03-15 09:20:57 [INFO] [CZBIL] Page 9 rows: 104
+2026-03-15 09:20:59 [INFO] [CZBIL] Page 10 rows: 100
+2026-03-15 09:21:01 [INFO] [CZBIL] Page 11 rows: 100
+2026-03-15 09:21:03 [INFO] [CZBIL] Page 12 rows: 100
+2026-03-15 09:21:06 [INFO] [CZBIL] Page 13 rows: 100
+2026-03-15 09:21:08 [INFO] [CZBIL] Page 14 rows: 98
+2026-03-15 09:21:10 [INFO] [CZBIL] Page 15 rows: 99
+2026-03-15 09:21:12 [INFO] [CZBIL] Page 16 rows: 99
+2026-03-15 09:21:15 [INFO] [CZBIL] Page 17 rows: 100
+2026-03-15 09:21:17 [INFO] [CZBIL] Page 18 rows: 96
+2026-03-15 09:21:19 [INFO] [CZBIL] Page 19 rows: 99
+2026-03-15 09:21:21 [INFO] [CZBIL] Page 20 rows: 98
+2026-03-15 09:21:23 [INFO] [CZBIL] Page 21 rows: 95
+2026-03-15 09:21:26 [INFO] [CZBIL] Page 22 rows: 92
+2026-03-15 09:21:28 [INFO] [CZBIL] Page 23 rows: 96
+2026-03-15 09:21:31 [INFO] [CZBIL] Page 24 rows: 98
+2026-03-15 09:21:33 [INFO] [CZBIL] Page 25 rows: 100
+2026-03-15 09:21:35 [INFO] [CZBIL] Page 26 rows: 97
+2026-03-15 09:21:37 [INFO] [CZBIL] Page 27 rows: 100
+2026-03-15 09:21:39 [INFO] [CZBIL] Page 28 rows: 38
+2026-03-15 09:21:42 [WARNING] [CZBIL] No rows on page 29, stopping
+2026-03-15 09:21:42 [INFO] [CZBIL] Saved 2601 rows -> ../data/company\CZBIL.csv
+2026-03-15 09:21:42 [INFO] [DDBL] (41/263) Scraping…
+2026-03-15 09:21:46 [INFO] [DDBL] Total pages: 103, page 1 rows: 100
+2026-03-15 09:21:48 [INFO] [DDBL] Page 2 rows: 100
+2026-03-15 09:21:50 [INFO] [DDBL] Page 3 rows: 100
+2026-03-15 09:21:53 [INFO] [DDBL] Page 4 rows: 100
+2026-03-15 09:21:55 [INFO] [DDBL] Page 5 rows: 100
+2026-03-15 09:21:59 [INFO] [DDBL] Page 6 rows: 100
+2026-03-15 09:22:01 [INFO] [DDBL] Page 7 rows: 100
+2026-03-15 09:22:04 [INFO] [DDBL] Page 8 rows: 100
+2026-03-15 09:22:06 [INFO] [DDBL] Page 9 rows: 103
+2026-03-15 09:22:08 [INFO] [DDBL] Page 10 rows: 100
+2026-03-15 09:22:10 [INFO] [DDBL] Page 11 rows: 100
+2026-03-15 09:22:12 [INFO] [DDBL] Page 12 rows: 100
+2026-03-15 09:22:14 [INFO] [DDBL] Page 13 rows: 100
+2026-03-15 09:22:17 [INFO] [DDBL] Page 14 rows: 99
+2026-03-15 09:22:19 [INFO] [DDBL] Page 15 rows: 99
+2026-03-15 09:22:21 [INFO] [DDBL] Page 16 rows: 99
+2026-03-15 09:22:23 [INFO] [DDBL] Page 17 rows: 100
+2026-03-15 09:22:25 [INFO] [DDBL] Page 18 rows: 97
+2026-03-15 09:22:27 [INFO] [DDBL] Page 19 rows: 99
+2026-03-15 09:22:30 [INFO] [DDBL] Page 20 rows: 98
+2026-03-15 09:22:32 [INFO] [DDBL] Page 21 rows: 95
+2026-03-15 09:22:34 [INFO] [DDBL] Page 22 rows: 92
+2026-03-15 09:22:36 [INFO] [DDBL] Page 23 rows: 98
+2026-03-15 09:22:38 [INFO] [DDBL] Page 24 rows: 98
+2026-03-15 09:22:40 [INFO] [DDBL] Page 25 rows: 98
+2026-03-15 09:22:42 [INFO] [DDBL] Page 26 rows: 100
+2026-03-15 09:22:44 [INFO] [DDBL] Page 27 rows: 43
+2026-03-15 09:22:46 [WARNING] [DDBL] No rows on page 28, stopping
+2026-03-15 09:22:46 [INFO] [DDBL] Saved 2513 rows -> ../data/company\DDBL.csv
+2026-03-15 09:22:46 [INFO] [DHEL] (42/263) Scraping…
+2026-03-15 09:22:50 [INFO] [DHEL] Total pages: 3, page 1 rows: 78
+2026-03-15 09:22:52 [INFO] [DHEL] Page 2 rows: 78
+2026-03-15 09:22:53 [WARNING] [DHEL] No rows on page 3, stopping
+2026-03-15 09:22:53 [INFO] [DHEL] Saved 78 rows -> ../data/company\DHEL.csv
+2026-03-15 09:22:53 [INFO] [DHPL] (43/263) Scraping…
+2026-03-15 09:22:57 [INFO] [DHPL] Total pages: 66, page 1 rows: 100
+2026-03-15 09:22:59 [INFO] [DHPL] Page 2 rows: 100
+2026-03-15 09:23:01 [INFO] [DHPL] Page 3 rows: 100
+2026-03-15 09:23:03 [INFO] [DHPL] Page 4 rows: 100
+2026-03-15 09:23:05 [INFO] [DHPL] Page 5 rows: 100
+2026-03-15 09:23:08 [INFO] [DHPL] Page 6 rows: 100
+2026-03-15 09:23:10 [INFO] [DHPL] Page 7 rows: 100
+2026-03-15 09:23:12 [INFO] [DHPL] Page 8 rows: 100

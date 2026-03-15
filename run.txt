@@ -1,0 +1,3 @@
+python allDataScrapper.py --symbols NABIL
+
+python allDataScrapper.py --resume   

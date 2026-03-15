@@ -1,0 +1,361 @@
+2026-03-15 04:14:52 [INFO] Fetching today's prices from sharesansar…
+2026-03-15 04:15:05 [WARNING] Connection error on attempt 1/3: https://www.sharesansar.com/today-share-price
+2026-03-15 04:15:20 [WARNING] Connection error on attempt 2/3: https://www.sharesansar.com/today-share-price
+2026-03-15 04:15:28 [WARNING] Connection error on attempt 3/3: https://www.sharesansar.com/today-share-price
+2026-03-15 04:15:28 [ERROR] Failed after 3 attempts: https://www.sharesansar.com/today-share-price
+2026-03-15 04:15:28 [ERROR] Could not fetch today's data from sharesansar
+2026-03-15 04:15:28 [INFO] [NABIL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:15:29 [WARNING] Connection error on attempt 1/3: https://merolagani.com/CompanyDetail.aspx?symbol=NABIL
+2026-03-15 04:15:45 [WARNING] Connection error on attempt 2/3: https://merolagani.com/CompanyDetail.aspx?symbol=NABIL
+2026-03-15 04:15:52 [WARNING] Connection error on attempt 3/3: https://merolagani.com/CompanyDetail.aspx?symbol=NABIL
+2026-03-15 04:15:52 [ERROR] Failed after 3 attempts: https://merolagani.com/CompanyDetail.aspx?symbol=NABIL
+2026-03-15 04:15:52 [WARNING] [NABIL] No data found
+2026-03-15 04:15:52 [INFO] [NBL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:15:54 [WARNING] Connection error on attempt 1/3: https://merolagani.com/CompanyDetail.aspx?symbol=NBL
+2026-03-15 04:15:58 [WARNING] Connection error on attempt 2/3: https://merolagani.com/CompanyDetail.aspx?symbol=NBL
+2026-03-15 04:18:56 [INFO] Fetching today's prices from sharesansar…
+2026-03-15 04:19:00 [INFO] Fetched today's data for 335 symbols from sharesansar
+2026-03-15 04:19:01 [INFO] [MEGA] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:02 [WARNING] [MEGA] No data found
+2026-03-15 04:19:02 [INFO] [SRBL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:04 [WARNING] [SRBL] No data found
+2026-03-15 04:19:04 [INFO] [CBL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:06 [WARNING] [CBL] No data found
+2026-03-15 04:19:06 [INFO] [JBNL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:08 [WARNING] [JBNL] No data found
+2026-03-15 04:19:08 [INFO] [BOKL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:10 [WARNING] [BOKL] No data found
+2026-03-15 04:19:10 [INFO] [CCBL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:12 [WARNING] [CCBL] No data found
+2026-03-15 04:19:12 [INFO] [RRHP] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:19:13 [WARNING] [RRHP] No data found
+2026-03-15 04:19:13 [INFO] ============================================================
+2026-03-15 04:19:13 [INFO] Done.  Updated: 48  |  Already up-to-date: 0  |  Failed: 7
+2026-03-15 04:19:13 [WARNING] Failed: MEGA, SRBL, CBL, JBNL, BOKL, CCBL, RRHP
+2026-03-15 04:27:44 [INFO] Fetching today's prices from sharesansar…
+2026-03-15 04:27:50 [INFO] Fetched today's data for 335 symbols from sharesansar
+2026-03-15 04:27:50 [INFO] [NABIL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NIMB] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SCB] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [HBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SBI] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [EBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NICA] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [MBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [KBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SANIMA] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NABBC] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NMB] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [PRVU] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [PCBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [CZBIL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [ADBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NBL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NHPC] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [BPCL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [CHCL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [AHPC] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SHPC] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [AKPL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [HPPL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [NHDL] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [UPPER] Already up-to-date, nothing to add
+2026-03-15 04:27:50 [INFO] [SOHL] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:27:52 [WARNING] [SOHL] No data found
+2026-03-15 04:27:52 [INFO] [NICL] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [NLICL] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [PRIN] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [NLIC] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [LICN] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [DDBL] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [SKBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [MLBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [NMFBS] Already up-to-date, nothing to add
+2026-03-15 04:27:52 [INFO] [GANAPATI] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:27:55 [WARNING] [GANAPATI] No data found
+2026-03-15 04:27:55 [INFO] [GFCL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [CFCL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [LBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [GBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [KSBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [MNBBL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [UNL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [BNL] Already up-to-date, nothing to add
+2026-03-15 04:27:55 [INFO] [NLO] Not in sharesansar bulk — falling back to merolagani
+2026-03-15 04:27:56 [WARNING] [NLO] No data found
+2026-03-15 04:27:56 [INFO] [SHIVM] Already up-to-date, nothing to add
+2026-03-15 04:27:56 [INFO] [GCIL] Already up-to-date, nothing to add
+2026-03-15 04:27:56 [INFO] [TRH] Already up-to-date, nothing to add
+2026-03-15 04:27:56 [INFO] [OHL] Already up-to-date, nothing to add
+2026-03-15 04:27:56 [INFO] ============================================================
+2026-03-15 04:27:56 [INFO] Done.  Updated: 212  |  Already up-to-date: 48  |  Failed: 3
+2026-03-15 04:27:56 [WARNING] Failed: SOHL, GANAPATI, NLO
+2026-03-15 04:33:30 [INFO] Fetching today's prices from sharesansar…
+2026-03-15 04:33:36 [INFO] Fetched today's data for 335 symbols from sharesansar
+2026-03-15 04:33:36 [INFO] [ACLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ADBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [AHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [AHPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [AKJCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [AKPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ALBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ALICL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ANLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [API] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [AVYAN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BANDIPUR] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BARUN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BBC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BEDC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BFC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BGWT] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BHCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BHDC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BHPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BNHC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BNL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BNT] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BPCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [BUNGAL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CFCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CGH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CHCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CHDC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CIT] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CITY] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CKHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CORBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CREST] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CYCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [CZBIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DDBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DHEL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DHPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DLBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DOLTI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [DORDI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [EBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [EDBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [EHPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ENL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [FMDBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [FOWAD] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GBIME] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GBLBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GCIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GFCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GILB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GLH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GMFBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GMFIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GMLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GRDBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GUFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [GVL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HATHY] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HDHPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HDL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HEI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HFIN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HIDCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HIMSTAR] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HPPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HRL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [HURJA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ICFC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [IGI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ILBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ILI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JBLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JHAPA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JOSHI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [JSLBB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KBSH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KDL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KKHC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KMCDB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KPCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [KSBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [LBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [LEC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [LICN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [LLBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [LSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MABEL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MAKAR] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MANDU] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MATRI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MBJC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MDB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MEHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MEL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MEN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MERO] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MFIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MHCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MHNL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MKCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MKHC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MKHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MKJC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MLBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MLBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MLBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MMKJL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MNBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MPFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MSHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [MSLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NABBC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NABIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NADEP] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NESDO] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NFS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NGPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NHDL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NHPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NICA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NICL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NICLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NIFRA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NIMB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NLG] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NLIC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NLICL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NMB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NMBMF] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NMFBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NMIC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NMLBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NRIC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NRM] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NRN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NTC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NUBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NWCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [NYADI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [OHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [OMPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PCBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PHCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PMHPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PMLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PPCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PRIN] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PROFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PRVU] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [PURE] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RADHI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RAWA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RBCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RFPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RHGCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RHPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RIDI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RLFL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RNLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RSDC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RSML] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [RURU] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SABBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SADBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SAGAR] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SAHAS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SAIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SALICO] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SANIMA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SANVI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SAPDBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SARBTM] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SBI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SCB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SFCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SGHC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SGIC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHEL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHINE] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHIVM] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SHPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SICL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SIFC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SIKLES] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SINDU] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SJCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SJLIC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SKBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SLBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SLBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMATA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMFBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMJC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SMPDA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SNLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SONA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SPDL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SPHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SPIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SPL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SRLI] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SSHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [STC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SWASTIK] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SWBBL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SWMF] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [SYPNL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TAMOR] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TPC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TRH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TSHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TTL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [TVCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UAIL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UHEWA] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ULBSL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [ULHC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UMHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UMRH] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UNL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UNLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UPCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [UPPER] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [USHEC] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [USHL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [USLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [VLBS] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [VLUCL] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] [WNLB] Already up-to-date, nothing to add
+2026-03-15 04:33:36 [INFO] ============================================================
+2026-03-15 04:33:36 [INFO] Done.  Updated: 3  |  Already up-to-date: 260  |  Failed: 0
+2026-03-15 04:40:23 [INFO] Fetching today's prices from sharesansar…
+2026-03-15 04:40:30 [INFO] Fetched today's data for 335 symbols from sharesansar
+2026-03-15 04:40:30 [INFO] ============================================================
+2026-03-15 04:40:30 [INFO] Done.  Updated: 263  |  Already up-to-date: 0  |  Failed: 0
