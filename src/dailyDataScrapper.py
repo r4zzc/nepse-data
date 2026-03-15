@@ -1,127 +1,74 @@
 """
 dailyDataScrapper.py
 ────────────────────
-Fetches today's (or the most-recent trading day's) prices and appends
-new rows to the existing per-company CSVs in OUTPUT_DIR.
+Fetches the most-recent trading day's prices from merolagani.com
+(same source and postback mechanism as allDataScrapper.py) and
+appends only new rows to existing per-company CSVs.
 
-Unlike the original repo version, this script:
-  1. Reads the current last-date from each existing CSV
-  2. Fetches fresh data from sharesansar.com today-share-price page
-  3. Appends only new rows (no duplicates, no overwriting)
-  4. Saves valid CSVs — no HTML artefacts
+How it works:
+  1. Read last saved date from each existing CSV
+  2. GET merolagani company page -> extract ASP.NET state tokens
+  3. POST to activate Price History tab -> parse page 1 (most recent rows)
+  4. Append only rows newer than the last saved date
+  5. Save CSV — no duplicates, no overwriting
 
 Usage:
-    python dailyDataScrapper.py                 # update all known companies
-    python dailyDataScrapper.py --symbols NABIL  # specific symbols
+    python dailyDataScrapper.py                  # update all companies
+    python dailyDataScrapper.py --symbols NABIL   # specific symbols
 """
 
 import os
 import csv
-import sys
 import argparse
 import urllib3
-from datetime import date, datetime
-from bs4 import BeautifulSoup
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 from config import COMPANIES, OUTPUT_DIR, CSV_COLUMNS
-from utils import fetch_page, ensure_dir, clean_number, parse_date, setup_logger
-
+from utils import fetch_page, ensure_dir, clean_number, parse_date, setup_logger, _SESSION, REQUEST_DELAY
+from allDataScrapper import (
+    extract_aspnet_state,
+    post_history_tab,
+    parse_price_table,
+)
 
 logger = setup_logger("dailyDataScrapper")
 
-# sharesansar today-share-price returns a big table with all listed stocks
-TODAY_URL = "https://www.sharesansar.com/today-share-price"
-# Merolagani company page (as fallback, page 1 only → most-recent data)
-MEROLAGANI_URL = "https://merolagani.com/CompanyDetail.aspx?symbol={symbol}"
+BASE_URL = "https://merolagani.com/CompanyDetail.aspx?symbol={symbol}"
 
 
-# ─── Fetch today's prices from sharesansar ────────────────────────────────────
+# ─── Fetch latest rows for one company ────────────────────────────────────────
 
-def fetch_today_sharesansar() -> dict[str, dict]:
+def fetch_latest(symbol: str) -> list[dict]:
     """
-    Parse the full today-share-price table on sharesansar.
-    Returns  {symbol -> {Date, Open, High, Low, Close, Change, Percent_Change, Volume, Turnover}}
+    Fire the merolagani postback for Price History tab and return
+    only page 1 rows (most recent ~30 trading days).
     """
-    resp = fetch_page(TODAY_URL, logger)
-    if not resp:
-        logger.error("Could not fetch today's data from sharesansar")
-        return {}
+    url = BASE_URL.format(symbol=symbol)
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-    table = soup.find("table", {"id": "headFixed"})
-    if not table:
-        table = soup.find("table", {"class": lambda c: c and "table" in c})
-    if not table:
-        logger.error("Price table not found on sharesansar today-share-price page")
-        return {}
-
-    headers = [th.get_text(strip=True).lower() for th in table.find_all("th")]
-    col_map = {h: i for i, h in enumerate(headers)}
-
-    def g(cells, *keys):
-        for k in keys:
-            idx = col_map.get(k)
-            if idx is not None and idx < len(cells):
-                v = cells[idx].get_text(strip=True)
-                if v:
-                    return v
-        return ""
-
-    today_str = date.today().strftime("%Y-%m-%d")
-    data = {}
-
-    tbody = table.find("tbody") or table
-    for tr in tbody.find_all("tr"):
-        cells = tr.find_all("td")
-        if not cells or len(cells) < 5:
-            continue
-
-        symbol = g(cells, "symbol", "s.n.", "stock symbol")
-        if not symbol or symbol.isdigit():
-            # Some tables put S.N. in col 0 and symbol in col 1
-            symbol = cells[1].get_text(strip=True) if len(cells) > 1 else ""
-
-        if not symbol:
-            continue
-
-        row = {
-            "Date":           parse_date(g(cells, "date", "published date") or today_str),
-            "Open":           clean_number(g(cells, "open", "open price")),
-            "High":           clean_number(g(cells, "high", "high price")),
-            "Low":            clean_number(g(cells, "low", "low price")),
-            "Close":          clean_number(g(cells, "close", "ltp", "last traded price", "close price")),
-            "Change":         clean_number(g(cells, "change", "price change")),
-            "Percent_Change": clean_number(g(cells, "% change", "%change", "percent change", "change%")),
-            "Volume":         clean_number(g(cells, "volume", "qty", "total qty", "traded qty")),
-            "Turnover":       clean_number(g(cells, "turnover", "total amount", "amount")),
-        }
-
-        if row["Close"]:
-            data[symbol.upper()] = row
-
-    logger.info(f"Fetched today's data for {len(data)} symbols from sharesansar")
-    return data
-
-
-# ─── Fetch latest row for a single company (fallback) ─────────────────────────
-
-def fetch_latest_merolagani(symbol: str) -> list[dict]:
-    """
-    Fetch page 1 of merolagani company page and return the most-recent rows.
-    Used as a fallback if sharesansar doesn't have the symbol.
-    """
-    from allDataScrapper import parse_table  # reuse the same parser
-    url = MEROLAGANI_URL.format(symbol=symbol)
+    # Step 1: GET page to grab ASP.NET tokens
     resp = fetch_page(url, logger)
     if not resp:
+        logger.error(f"[{symbol}] Could not fetch page")
         return []
-    rows = parse_table(resp.text)
-    return rows  # already sorted ascending on that page
+
+    state = extract_aspnet_state(resp.text)
+    if not state.get("__VIEWSTATE"):
+        logger.error(f"[{symbol}] Could not extract __VIEWSTATE")
+        return []
+
+    # Step 2: POST to activate Price History tab
+    html = post_history_tab(url, state, symbol)
+    if not html:
+        logger.error(f"[{symbol}] History tab postback failed")
+        return []
+
+    rows = parse_price_table(html)
+    logger.info(f"[{symbol}] Fetched {len(rows)} recent rows from merolagani")
+    return rows
 
 
-# ─── CSV read / append helpers ────────────────────────────────────────────────
+# ─── CSV helpers ──────────────────────────────────────────────────────────────
 
 def read_existing_csv(filepath: str) -> tuple[list[dict], set[str]]:
     """Return (all_rows, set_of_dates_already_present)."""
@@ -167,7 +114,7 @@ def append_and_save(filepath: str, existing_rows: list[dict],
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Daily update of NEPSE company CSVs")
+    parser = argparse.ArgumentParser(description="Daily update of NEPSE company CSVs via merolagani")
     parser.add_argument("--symbols", nargs="+", help="Only update these symbols")
     parser.add_argument("--output", default=OUTPUT_DIR, help="Output directory")
     args = parser.parse_args()
@@ -175,22 +122,15 @@ def main():
     ensure_dir(args.output)
     symbols = [s.upper() for s in args.symbols] if args.symbols else list(COMPANIES.keys())
 
-    # Step 1: grab full today-price table in one shot (efficient)
-    logger.info("Fetching today's prices from sharesansar…")
-    today_data = fetch_today_sharesansar()
-
+    logger.info(f"Starting daily update for {len(symbols)} companies")
     updated, skipped, failed = [], [], []
 
-    for symbol in symbols:
+    for i, symbol in enumerate(symbols, 1):
         csv_path = os.path.join(args.output, f"{symbol}.csv")
         existing_rows, existing_dates = read_existing_csv(csv_path)
 
-        # Prefer sharesansar bulk data; fall back to merolagani page
-        if symbol in today_data:
-            new_rows = [today_data[symbol]]
-        else:
-            logger.info(f"[{symbol}] Not in sharesansar bulk — falling back to merolagani")
-            new_rows = fetch_latest_merolagani(symbol)
+        logger.info(f"[{symbol}] ({i}/{len(symbols)}) Fetching latest data...")
+        new_rows = fetch_latest(symbol)
 
         if not new_rows:
             logger.warning(f"[{symbol}] No data found")
@@ -200,14 +140,14 @@ def main():
         added = append_and_save(csv_path, existing_rows, new_rows, existing_dates)
 
         if added > 0:
-            logger.info(f"[{symbol}] +{added} new row(s) saved → {csv_path}")
+            logger.info(f"[{symbol}] +{added} new row(s) saved -> {csv_path}")
             updated.append(symbol)
         else:
             logger.info(f"[{symbol}] Already up-to-date, nothing to add")
             skipped.append(symbol)
 
     logger.info("=" * 60)
-    logger.info(f"Done.  Updated: {len(updated)}  |  Already up-to-date: {len(skipped)}  |  Failed: {len(failed)}")
+    logger.info(f"Done.  Updated: {len(updated)}  |  Up-to-date: {len(skipped)}  |  Failed: {len(failed)}")
     if failed:
         logger.warning(f"Failed: {', '.join(failed)}")
 
